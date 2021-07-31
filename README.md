@@ -36,4 +36,4 @@ I'm a backend developper
    
 </details>
 
-![Thib3113's wakatime](https://github.com/thib3113/thib3113/blob/main/github-metrics.svg)
+![Thib3113's github metrics](https://gist.githubusercontent.com/thib3113/83a96e16f8bca103f1b0e376186c66ec/raw/9691d14788476f65a5cb00c1e0cd5af60c17867c/github-metrics.svg)
