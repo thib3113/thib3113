@@ -21,7 +21,7 @@ jobs:
           # Options
           user: thib3113
           template: terminal
-          committer_gist: github-metrics.svg
+          committer_gist: 88a430193ce9734487f2abee13cdd9b8
           output_action: gist
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
