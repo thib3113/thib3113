@@ -5,18 +5,12 @@ My name is Thibaut, alive since 1994 🍷
 I'm a backend developper
 
 -   📝 CV / Blog : https://thib3113.fr
-
+-   My codersRank : https://profile.codersrank.io/user/thib3113/
 -   <a href="https://www.linkedin.com/in/thib3113/"><img align="left" alt="Thib3113's Linkedin" width="21px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a> https://www.linkedin.com/in/thib3113/
 
 📊 **This week I spent my time on**
 
 [![Thib3113's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=thib3113&layout=default&theme=dracula&langs_count=6&hide_title=true&hide_border=true)](https://wakatime.com/@thib3113)
-
-<img width="21px" src="https://www.svgrepo.com/show/305886/codersrank.svg" alt="coderank logo" /> **My CodersRank**
-
- <p align="left">
-   <a href="https://profile.codersrank.io/user/thib3113/"><img width="50%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thib3113&width=320" alt="coderank stats"/></a>
-</p>
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
