@@ -27,13 +27,14 @@ I'm a backend developper
   <img src="https://github-readme-stats.vercel.app/api?username=thib3113&theme=dracula&show_icons=true&" alt="Thib3113's GitHub stats" />
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#123](https://github.com/thib3113/unifi-client/pull/123) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
 2. 🎉 Merged PR [#122](https://github.com/thib3113/unifi-client/pull/122) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
 3. 🗣 Commented on [#1](https://github.com/thib3113/wordpress-pagespeed/issues/1) in [thib3113/wordpress-pagespeed](https://github.com/thib3113/wordpress-pagespeed)
 4. ❗️ Closed issue [#120](https://github.com/thib3113/unifi-client/issues/120) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
 5. 🎉 Merged PR [#121](https://github.com/thib3113/unifi-client/pull/121) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-<!--END_SECTION:activity-->
-   
+ <!--END_SECTION:activity-->
+
 </details>
 
-![Thib3113's github metrics](https://gist.githubusercontent.com/thib3113/83a96e16f8bca103f1b0e376186c66ec/raw/9691d14788476f65a5cb00c1e0cd5af60c17867c/github-metrics.svg)
+![Thib3113's github metrics](https://gist.githubusercontent.com/thib3113/83a96e16f8bca103f1b0e376186c66ec/raw/github-metrics.svg)
