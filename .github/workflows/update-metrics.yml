@@ -21,7 +21,7 @@ jobs:
           # Options
           user: thib3113
           template: terminal
-          committer_gist: 88a430193ce9734487f2abee13cdd9b8
+          committer_gist: thib3113/83a96e16f8bca103f1b0e376186c66ec
           output_action: gist
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
