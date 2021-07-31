@@ -33,6 +33,11 @@ I'm a backend developper
   <img src="https://github-readme-stats.vercel.app/api?username=thib3113&theme=dracula&show_icons=true&" alt="Thib3113's GitHub stats" />
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#122](https://github.com/thib3113/unifi-client/pull/122) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🗣 Commented on [#1](https://github.com/thib3113/wordpress-pagespeed/issues/1) in [thib3113/wordpress-pagespeed](https://github.com/thib3113/wordpress-pagespeed)
+3. ❗️ Closed issue [#120](https://github.com/thib3113/unifi-client/issues/120) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🎉 Merged PR [#121](https://github.com/thib3113/unifi-client/pull/121) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 💪 Opened PR [#121](https://github.com/thib3113/unifi-client/pull/121) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
 <!--END_SECTION:activity-->
    
 </details>
