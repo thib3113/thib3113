@@ -41,3 +41,5 @@ I'm a backend developper
 <!--END_SECTION:activity-->
    
 </details>
+
+![Thib3113's wakatime](https://github.com/thib3113/thib3113/blob/main/github-metrics.svg)
