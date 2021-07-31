@@ -3,8 +3,9 @@ name: Update README
 on:
   schedule:
     - cron: '*/30 * * * *'
-  workflow_dispatch:
-    branches: [ main ]
+  push:
+    branches:
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
