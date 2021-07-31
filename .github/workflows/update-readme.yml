@@ -3,9 +3,7 @@ name: Update README
 on:
   schedule:
     - cron: '*/30 * * * *'
-  push:
-    branches:
-      - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
