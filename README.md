@@ -16,7 +16,7 @@ I'm a backend developper
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>  
   <a href='https://profile.codersrank.io/user/thib3113/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=thib3113&padding=30&skills=batchfile,javascript,less,mysql,reactjs,scss,shell,typescript,vue'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=thib3113&padding=30&skills=php,batchfile,javascript,less,mysql,reactjs,scss,shell,typescript,vue'>
   </a>
 </details>
 
