@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#125](https://github.com/thib3113/unifi-client/pull/125) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🎉 Merged PR [#124](https://github.com/thib3113/unifi-client/pull/124) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🗣 Commented on [#414](https://github.com/lowlighter/metrics/issues/414) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-4. 🎉 Merged PR [#123](https://github.com/thib3113/unifi-client/pull/123) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🎉 Merged PR [#122](https://github.com/thib3113/unifi-client/pull/122) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🎉 Merged PR [#126](https://github.com/thib3113/unifi-client/pull/126) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 💪 Opened PR [#126](https://github.com/thib3113/unifi-client/pull/126) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 🎉 Merged PR [#125](https://github.com/thib3113/unifi-client/pull/125) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🎉 Merged PR [#124](https://github.com/thib3113/unifi-client/pull/124) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 🗣 Commented on [#414](https://github.com/lowlighter/metrics/issues/414) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
  <!--END_SECTION:activity-->
 
 </details>
