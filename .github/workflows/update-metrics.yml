@@ -23,6 +23,7 @@ jobs:
           template: terminal
           committer_gist: 83a96e16f8bca103f1b0e376186c66ec
           output_action: gist
+          debug: true
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
           use_prebuilt_image: yes
