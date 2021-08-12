@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#12](https://github.com/tiredofit/docker-mongodb-backup/issues/12) in [tiredofit/docker-mongodb-backup](https://github.com/tiredofit/docker-mongodb-backup)
-2. 🎉 Merged PR [#138](https://github.com/thib3113/unifi-client/pull/138) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🎉 Merged PR [#137](https://github.com/thib3113/unifi-client/pull/137) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 💪 Opened PR [#137](https://github.com/thib3113/unifi-client/pull/137) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🎉 Merged PR [#136](https://github.com/thib3113/unifi-client/pull/136) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🗣 Commented on [#12](https://github.com/tiredofit/docker-mongodb-backup/issues/12) in [tiredofit/docker-mongodb-backup](https://github.com/tiredofit/docker-mongodb-backup)
+2. ❗️ Opened issue [#12](https://github.com/tiredofit/docker-mongodb-backup/issues/12) in [tiredofit/docker-mongodb-backup](https://github.com/tiredofit/docker-mongodb-backup)
+3. 🎉 Merged PR [#138](https://github.com/thib3113/unifi-client/pull/138) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🎉 Merged PR [#137](https://github.com/thib3113/unifi-client/pull/137) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 💪 Opened PR [#137](https://github.com/thib3113/unifi-client/pull/137) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
