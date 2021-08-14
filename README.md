@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#281](https://github.com/mikepenz/action-junit-report/issues/281) in [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report)
-2. 💪 Opened PR [#141](https://github.com/thib3113/unifi-client/pull/141) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🎉 Merged PR [#140](https://github.com/thib3113/unifi-client/pull/140) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 💪 Opened PR [#140](https://github.com/thib3113/unifi-client/pull/140) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🎉 Merged PR [#4](https://github.com/thib3113/unifi-blockips-srv/pull/4) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+1. 🗣 Commented on [#281](https://github.com/mikepenz/action-junit-report/issues/281) in [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report)
+2. ❗️ Opened issue [#281](https://github.com/mikepenz/action-junit-report/issues/281) in [mikepenz/action-junit-report](https://github.com/mikepenz/action-junit-report)
+3. 💪 Opened PR [#141](https://github.com/thib3113/unifi-client/pull/141) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🎉 Merged PR [#140](https://github.com/thib3113/unifi-client/pull/140) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 💪 Opened PR [#140](https://github.com/thib3113/unifi-client/pull/140) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
