@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#150](https://github.com/thib3113/unifi-client/issues/150) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 💪 Opened PR [#149](https://github.com/thib3113/unifi-client/pull/149) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. ❗️ Opened issue [#148](https://github.com/thib3113/unifi-client/issues/148) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. ❗️ Opened issue [#147](https://github.com/thib3113/unifi-client/issues/147) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🗣 Commented on [#970](https://github.com/moleculerjs/moleculer/issues/970) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+1. ❗️ Closed issue [#147](https://github.com/thib3113/unifi-client/issues/147) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🎉 Merged PR [#149](https://github.com/thib3113/unifi-client/pull/149) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. ❗️ Opened issue [#150](https://github.com/thib3113/unifi-client/issues/150) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 💪 Opened PR [#149](https://github.com/thib3113/unifi-client/pull/149) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. ❗️ Opened issue [#148](https://github.com/thib3113/unifi-client/issues/148) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
