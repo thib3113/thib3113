@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#21](https://github.com/thib3113/unifi-blockips-srv/pull/21) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-2. 🎉 Merged PR [#22](https://github.com/thib3113/unifi-blockips-srv/pull/22) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-3. 🗣 Commented on [#513](https://github.com/lowlighter/metrics/issues/513) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
-4. 🎉 Merged PR [#165](https://github.com/thib3113/unifi-client/pull/165) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. ❗️ Closed issue [#163](https://github.com/thib3113/unifi-client/issues/163) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🗣 Commented on [#513](https://github.com/lowlighter/metrics/issues/513) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+2. 🎉 Merged PR [#21](https://github.com/thib3113/unifi-blockips-srv/pull/21) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+3. 🎉 Merged PR [#22](https://github.com/thib3113/unifi-blockips-srv/pull/22) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+4. 🗣 Commented on [#513](https://github.com/lowlighter/metrics/issues/513) in [lowlighter/metrics](https://github.com/lowlighter/metrics)
+5. 🎉 Merged PR [#165](https://github.com/thib3113/unifi-client/pull/165) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
