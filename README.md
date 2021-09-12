@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1694](https://github.com/TypeStrong/typedoc/issues/1694) in [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
-2. 🗣 Commented on [#1694](https://github.com/TypeStrong/typedoc/issues/1694) in [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
-3. ❗️ Opened issue [#1694](https://github.com/TypeStrong/typedoc/issues/1694) in [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
-4. 🎉 Merged PR [#25](https://github.com/thib3113/unifi-blockips-srv/pull/25) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-5. 🎉 Merged PR [#24](https://github.com/thib3113/unifi-blockips-srv/pull/24) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+1. 🎉 Merged PR [#187](https://github.com/thib3113/unifi-client/pull/187) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 💪 Opened PR [#187](https://github.com/thib3113/unifi-client/pull/187) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. ❗️ Closed issue [#1694](https://github.com/TypeStrong/typedoc/issues/1694) in [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
+4. 🗣 Commented on [#1694](https://github.com/TypeStrong/typedoc/issues/1694) in [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
+5. ❗️ Opened issue [#1694](https://github.com/TypeStrong/typedoc/issues/1694) in [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
  <!--END_SECTION:activity-->
 
 </details>
