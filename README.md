@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1112](https://github.com/crowdsecurity/crowdsec/issues/1112) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
-2. 🗣 Commented on [#1111](https://github.com/crowdsecurity/crowdsec/issues/1111) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
-3. 🗣 Commented on [#1094](https://github.com/crowdsecurity/crowdsec/issues/1094) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
-4. ❗️ Opened issue [#1094](https://github.com/crowdsecurity/crowdsec/issues/1094) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
-5. 🎉 Merged PR [#75](https://github.com/thib3113/unifi-blockips-srv/pull/75) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+1. ❗️ Opened issue [#98](https://github.com/crowdsecurity/cs-firewall-bouncer/issues/98) in [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer)
+2. ❗️ Opened issue [#1112](https://github.com/crowdsecurity/crowdsec/issues/1112) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
+3. 🗣 Commented on [#1111](https://github.com/crowdsecurity/crowdsec/issues/1111) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
+4. 🗣 Commented on [#1094](https://github.com/crowdsecurity/crowdsec/issues/1094) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
+5. ❗️ Opened issue [#1094](https://github.com/crowdsecurity/crowdsec/issues/1094) in [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
