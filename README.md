@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#98](https://github.com/crowdsecurity/cs-firewall-bouncer/issues/98) in [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer)
+1. 🎉 Merged PR [#82](https://github.com/thib3113/unifi-blockips-srv/pull/82) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
 2. 🗣 Commented on [#98](https://github.com/crowdsecurity/cs-firewall-bouncer/issues/98) in [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer)
-3. 🎉 Merged PR [#81](https://github.com/thib3113/unifi-blockips-srv/pull/81) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-4. 🎉 Merged PR [#80](https://github.com/thib3113/unifi-blockips-srv/pull/80) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-5. 🎉 Merged PR [#268](https://github.com/thib3113/unifi-client/pull/268) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 🗣 Commented on [#98](https://github.com/crowdsecurity/cs-firewall-bouncer/issues/98) in [crowdsecurity/cs-firewall-bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer)
+4. 🎉 Merged PR [#81](https://github.com/thib3113/unifi-blockips-srv/pull/81) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+5. 🎉 Merged PR [#80](https://github.com/thib3113/unifi-blockips-srv/pull/80) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
  <!--END_SECTION:activity-->
 
 </details>
