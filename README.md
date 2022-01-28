@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#106](https://github.com/thib3113/unifi-blockips-srv/pull/106) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-2. 🗣 Commented on [#105](https://github.com/thib3113/unifi-blockips-srv/issues/105) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-3. ❗️ Opened issue [#105](https://github.com/thib3113/unifi-blockips-srv/issues/105) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-4. ❗️ Closed issue [#103](https://github.com/thib3113/unifi-blockips-srv/issues/103) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-5. ❗️ Opened issue [#104](https://github.com/thib3113/unifi-blockips-srv/issues/104) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+1. 🎉 Merged PR [#106](https://github.com/thib3113/unifi-blockips-srv/pull/106) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+2. ❗️ Closed issue [#105](https://github.com/thib3113/unifi-blockips-srv/issues/105) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+3. 💪 Opened PR [#106](https://github.com/thib3113/unifi-blockips-srv/pull/106) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+4. 🗣 Commented on [#105](https://github.com/thib3113/unifi-blockips-srv/issues/105) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+5. ❗️ Opened issue [#105](https://github.com/thib3113/unifi-blockips-srv/issues/105) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
  <!--END_SECTION:activity-->
 
 </details>
