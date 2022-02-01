@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/thib3113/node-red-contrib-vban/pull/3) in [thib3113/node-red-contrib-vban](https://github.com/thib3113/node-red-contrib-vban)
-2. 💪 Opened PR [#3](https://github.com/thib3113/node-red-contrib-vban/pull/3) in [thib3113/node-red-contrib-vban](https://github.com/thib3113/node-red-contrib-vban)
-3. 🎉 Merged PR [#9](https://github.com/thib3113/vban/pull/9) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#10](https://github.com/thib3113/vban/pull/10) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#8](https://github.com/thib3113/vban/pull/8) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🎉 Merged PR [#296](https://github.com/thib3113/unifi-client/pull/296) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🎉 Merged PR [#108](https://github.com/thib3113/unifi-blockips-srv/pull/108) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+3. 🎉 Merged PR [#3](https://github.com/thib3113/node-red-contrib-vban/pull/3) in [thib3113/node-red-contrib-vban](https://github.com/thib3113/node-red-contrib-vban)
+4. 💪 Opened PR [#3](https://github.com/thib3113/node-red-contrib-vban/pull/3) in [thib3113/node-red-contrib-vban](https://github.com/thib3113/node-red-contrib-vban)
+5. 🎉 Merged PR [#9](https://github.com/thib3113/vban/pull/9) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
