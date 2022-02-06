@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#299](https://github.com/thib3113/unifi-client/pull/299) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🎉 Merged PR [#13](https://github.com/thib3113/vban/pull/13) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🎉 Merged PR [#11](https://github.com/thib3113/vban/pull/11) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#12](https://github.com/thib3113/vban/pull/12) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#296](https://github.com/thib3113/unifi-client/pull/296) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🎉 Merged PR [#300](https://github.com/thib3113/unifi-client/pull/300) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🎉 Merged PR [#299](https://github.com/thib3113/unifi-client/pull/299) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 🎉 Merged PR [#13](https://github.com/thib3113/vban/pull/13) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🎉 Merged PR [#11](https://github.com/thib3113/vban/pull/11) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#12](https://github.com/thib3113/vban/pull/12) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
