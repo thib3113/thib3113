@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/thib3113/vban/pull/14) in [thib3113/vban](https://github.com/thib3113/vban)
-2. ❗️ Closed issue [#293](https://github.com/thib3113/unifi-client/issues/293) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🎉 Merged PR [#294](https://github.com/thib3113/unifi-client/pull/294) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🎉 Merged PR [#111](https://github.com/thib3113/unifi-blockips-srv/pull/111) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-5. 🎉 Merged PR [#300](https://github.com/thib3113/unifi-client/pull/300) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🎉 Merged PR [#302](https://github.com/thib3113/unifi-client/pull/302) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🎉 Merged PR [#14](https://github.com/thib3113/vban/pull/14) in [thib3113/vban](https://github.com/thib3113/vban)
+3. ❗️ Closed issue [#293](https://github.com/thib3113/unifi-client/issues/293) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🎉 Merged PR [#294](https://github.com/thib3113/unifi-client/pull/294) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 🎉 Merged PR [#111](https://github.com/thib3113/unifi-blockips-srv/pull/111) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
  <!--END_SECTION:activity-->
 
 </details>
