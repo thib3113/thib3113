@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/Game4Move78/zsh-bitwarden/issues/1) in [Game4Move78/zsh-bitwarden](https://github.com/Game4Move78/zsh-bitwarden)
-2. 🎉 Merged PR [#16](https://github.com/thib3113/vban/pull/16) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🎉 Merged PR [#15](https://github.com/thib3113/vban/pull/15) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#112](https://github.com/thib3113/unifi-blockips-srv/pull/112) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-5. 🎉 Merged PR [#302](https://github.com/thib3113/unifi-client/pull/302) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🎉 Merged PR [#308](https://github.com/thib3113/unifi-client/pull/308) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. ❗️ Opened issue [#1](https://github.com/Game4Move78/zsh-bitwarden/issues/1) in [Game4Move78/zsh-bitwarden](https://github.com/Game4Move78/zsh-bitwarden)
+3. 🎉 Merged PR [#16](https://github.com/thib3113/vban/pull/16) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🎉 Merged PR [#15](https://github.com/thib3113/vban/pull/15) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#112](https://github.com/thib3113/unifi-blockips-srv/pull/112) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
  <!--END_SECTION:activity-->
 
 </details>
