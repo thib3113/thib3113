@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#150](https://github.com/Art-of-WiFi/UniFi-API-client/issues/150) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
+1. 💪 Opened PR [#1069](https://github.com/moleculerjs/moleculer/pull/1069) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
 2. 🗣 Commented on [#150](https://github.com/Art-of-WiFi/UniFi-API-client/issues/150) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
 3. 🗣 Commented on [#150](https://github.com/Art-of-WiFi/UniFi-API-client/issues/150) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
 4. 🗣 Commented on [#150](https://github.com/Art-of-WiFi/UniFi-API-client/issues/150) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
-5. 🎉 Merged PR [#37](https://github.com/thib3113/vban/pull/37) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🗣 Commented on [#150](https://github.com/Art-of-WiFi/UniFi-API-client/issues/150) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
  <!--END_SECTION:activity-->
 
 </details>
