@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#350](https://github.com/thib3113/unifi-client/pull/350) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 💪 Opened PR [#146](https://github.com/centreon/centreon-frontend/pull/146) in [centreon/centreon-frontend](https://github.com/centreon/centreon-frontend)
-3. 🎉 Merged PR [#49](https://github.com/thib3113/vban/pull/49) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#47](https://github.com/thib3113/vban/pull/47) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#348](https://github.com/thib3113/unifi-client/pull/348) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🎉 Merged PR [#351](https://github.com/thib3113/unifi-client/pull/351) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🎉 Merged PR [#50](https://github.com/thib3113/vban/pull/50) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🎉 Merged PR [#350](https://github.com/thib3113/unifi-client/pull/350) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 💪 Opened PR [#146](https://github.com/centreon/centreon-frontend/pull/146) in [centreon/centreon-frontend](https://github.com/centreon/centreon-frontend)
+5. 🎉 Merged PR [#49](https://github.com/thib3113/vban/pull/49) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
