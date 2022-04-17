@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#355](https://github.com/thib3113/unifi-client/pull/355) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🎉 Merged PR [#353](https://github.com/thib3113/unifi-client/pull/353) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🎉 Merged PR [#351](https://github.com/thib3113/unifi-client/pull/351) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🎉 Merged PR [#50](https://github.com/thib3113/vban/pull/50) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#350](https://github.com/thib3113/unifi-client/pull/350) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🗣 Commented on [#155](https://github.com/Art-of-WiFi/UniFi-API-client/issues/155) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
+2. 🎉 Merged PR [#355](https://github.com/thib3113/unifi-client/pull/355) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 🎉 Merged PR [#353](https://github.com/thib3113/unifi-client/pull/353) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🎉 Merged PR [#351](https://github.com/thib3113/unifi-client/pull/351) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 🎉 Merged PR [#50](https://github.com/thib3113/vban/pull/50) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
