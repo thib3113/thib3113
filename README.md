@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/centreon/centreon-grafana-datasource/issues/2) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
-2. 🗣 Commented on [#155](https://github.com/Art-of-WiFi/UniFi-API-client/issues/155) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
+1. 🎉 Merged PR [#358](https://github.com/thib3113/unifi-client/pull/358) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🗣 Commented on [#2](https://github.com/centreon/centreon-grafana-datasource/issues/2) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
 3. 🗣 Commented on [#155](https://github.com/Art-of-WiFi/UniFi-API-client/issues/155) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
-4. 🎉 Merged PR [#355](https://github.com/thib3113/unifi-client/pull/355) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🎉 Merged PR [#353](https://github.com/thib3113/unifi-client/pull/353) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🗣 Commented on [#155](https://github.com/Art-of-WiFi/UniFi-API-client/issues/155) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
+5. 🎉 Merged PR [#355](https://github.com/thib3113/unifi-client/pull/355) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
