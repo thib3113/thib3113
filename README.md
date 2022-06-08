@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#775](https://github.com/fkhadra/react-toastify/issues/775) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
-2. ❗️ Opened issue [#775](https://github.com/fkhadra/react-toastify/issues/775) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
-3. 🎉 Merged PR [#387](https://github.com/thib3113/unifi-client/pull/387) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🎉 Merged PR [#389](https://github.com/thib3113/unifi-client/pull/389) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 💪 Opened PR [#389](https://github.com/thib3113/unifi-client/pull/389) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🎉 Merged PR [#396](https://github.com/thib3113/unifi-client/pull/396) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🎉 Merged PR [#80](https://github.com/thib3113/vban/pull/80) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🗣 Commented on [#775](https://github.com/fkhadra/react-toastify/issues/775) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
+4. ❗️ Opened issue [#775](https://github.com/fkhadra/react-toastify/issues/775) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
+5. 🎉 Merged PR [#387](https://github.com/thib3113/unifi-client/pull/387) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
