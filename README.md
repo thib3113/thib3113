@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/centreon/centreon-grafana-datasource/pull/5) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
-2. 💪 Opened PR [#6](https://github.com/centreon/centreon-grafana-datasource/pull/6) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
-3. 💪 Opened PR [#5](https://github.com/centreon/centreon-grafana-datasource/pull/5) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
-4. 🗣 Commented on [#775](https://github.com/fkhadra/react-toastify/issues/775) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
-5. 🗣 Commented on [#775](https://github.com/fkhadra/react-toastify/issues/775) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
+1. 💪 Opened PR [#8](https://github.com/centreon/centreon-grafana-datasource/pull/8) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
+2. 🗣 Commented on [#7](https://github.com/centreon/centreon-grafana-datasource/issues/7) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
+3. ❌ Closed PR [#7](https://github.com/centreon/centreon-grafana-datasource/pull/7) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
+4. 🎉 Merged PR [#6](https://github.com/centreon/centreon-grafana-datasource/pull/6) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
+5. 🎉 Merged PR [#5](https://github.com/centreon/centreon-grafana-datasource/pull/5) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
  <!--END_SECTION:activity-->
 
 </details>
