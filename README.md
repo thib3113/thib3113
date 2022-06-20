@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/centreon/centreon-grafana-datasource/pull/8) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
-2. 💪 Opened PR [#8](https://github.com/centreon/centreon-grafana-datasource/pull/8) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
-3. 🗣 Commented on [#7](https://github.com/centreon/centreon-grafana-datasource/issues/7) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
-4. ❌ Closed PR [#7](https://github.com/centreon/centreon-grafana-datasource/pull/7) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
-5. 🎉 Merged PR [#6](https://github.com/centreon/centreon-grafana-datasource/pull/6) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
+1. 💪 Opened PR [#9](https://github.com/centreon/centreon-grafana-datasource/pull/9) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
+2. 🎉 Merged PR [#8](https://github.com/centreon/centreon-grafana-datasource/pull/8) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
+3. 💪 Opened PR [#8](https://github.com/centreon/centreon-grafana-datasource/pull/8) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
+4. 🗣 Commented on [#7](https://github.com/centreon/centreon-grafana-datasource/issues/7) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
+5. ❌ Closed PR [#7](https://github.com/centreon/centreon-grafana-datasource/pull/7) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
  <!--END_SECTION:activity-->
 
 </details>
