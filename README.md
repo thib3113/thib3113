@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❌ Reopened PR [#115](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching/pull/115) in [715209/nginx-obs-automatic-low-bitrate-switching](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching)
-2. ❌ Closed PR [#115](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching/pull/115) in [715209/nginx-obs-automatic-low-bitrate-switching](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching)
-3. 💪 Opened PR [#115](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching/pull/115) in [715209/nginx-obs-automatic-low-bitrate-switching](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching)
-4. 🎉 Merged PR [#435](https://github.com/thib3113/unifi-client/pull/435) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🎉 Merged PR [#111](https://github.com/thib3113/vban/pull/111) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🎉 Merged PR [#449](https://github.com/thib3113/unifi-client/pull/449) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. ❌ Reopened PR [#115](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching/pull/115) in [715209/nginx-obs-automatic-low-bitrate-switching](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching)
+3. ❌ Closed PR [#115](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching/pull/115) in [715209/nginx-obs-automatic-low-bitrate-switching](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching)
+4. 💪 Opened PR [#115](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching/pull/115) in [715209/nginx-obs-automatic-low-bitrate-switching](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching)
+5. 🎉 Merged PR [#435](https://github.com/thib3113/unifi-client/pull/435) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
