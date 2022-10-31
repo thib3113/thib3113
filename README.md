@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#151](https://github.com/thib3113/vban/pull/151) in [thib3113/vban](https://github.com/thib3113/vban)
-2. ❗️ Closed issue [#775](https://github.com/fkhadra/react-toastify/issues/775) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
-3. 🗣 Commented on [#775](https://github.com/fkhadra/react-toastify/issues/775) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
-4. 🎉 Merged PR [#152](https://github.com/thib3113/vban/pull/152) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#485](https://github.com/thib3113/unifi-client/pull/485) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🎉 Merged PR [#496](https://github.com/thib3113/unifi-client/pull/496) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🎉 Merged PR [#156](https://github.com/thib3113/vban/pull/156) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🎉 Merged PR [#151](https://github.com/thib3113/vban/pull/151) in [thib3113/vban](https://github.com/thib3113/vban)
+4. ❗️ Closed issue [#775](https://github.com/fkhadra/react-toastify/issues/775) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
+5. 🗣 Commented on [#775](https://github.com/fkhadra/react-toastify/issues/775) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
  <!--END_SECTION:activity-->
 
 </details>
