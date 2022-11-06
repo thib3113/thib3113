@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#161](https://github.com/thib3113/vban/pull/161) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 💪 Opened PR [#317](https://github.com/moleculerjs/moleculer-web/pull/317) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
-3. 🎉 Merged PR [#496](https://github.com/thib3113/unifi-client/pull/496) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🎉 Merged PR [#156](https://github.com/thib3113/vban/pull/156) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#151](https://github.com/thib3113/vban/pull/151) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🎉 Merged PR [#501](https://github.com/thib3113/unifi-client/pull/501) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. ❗️ Opened issue [#328](https://github.com/moleculerjs/moleculer-db/issues/328) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+3. 🗣 Commented on [#317](https://github.com/moleculerjs/moleculer-web/issues/317) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
+4. 🎉 Merged PR [#161](https://github.com/thib3113/vban/pull/161) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 💪 Opened PR [#317](https://github.com/moleculerjs/moleculer-web/pull/317) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
  <!--END_SECTION:activity-->
 
 </details>
