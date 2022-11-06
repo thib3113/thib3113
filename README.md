@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#317](https://github.com/moleculerjs/moleculer-web/pull/317) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
-2. 🎉 Merged PR [#496](https://github.com/thib3113/unifi-client/pull/496) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🎉 Merged PR [#156](https://github.com/thib3113/vban/pull/156) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#151](https://github.com/thib3113/vban/pull/151) in [thib3113/vban](https://github.com/thib3113/vban)
-5. ❗️ Closed issue [#775](https://github.com/fkhadra/react-toastify/issues/775) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
+1. 🎉 Merged PR [#161](https://github.com/thib3113/vban/pull/161) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 💪 Opened PR [#317](https://github.com/moleculerjs/moleculer-web/pull/317) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
+3. 🎉 Merged PR [#496](https://github.com/thib3113/unifi-client/pull/496) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🎉 Merged PR [#156](https://github.com/thib3113/vban/pull/156) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#151](https://github.com/thib3113/vban/pull/151) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
