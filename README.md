@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1152](https://github.com/moleculerjs/moleculer/pull/1152) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
-2. 🗣 Commented on [#1069](https://github.com/moleculerjs/moleculer/issues/1069) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
-3. 💪 Opened PR [#329](https://github.com/moleculerjs/moleculer-db/pull/329) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
-4. 🎉 Merged PR [#501](https://github.com/thib3113/unifi-client/pull/501) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. ❗️ Opened issue [#328](https://github.com/moleculerjs/moleculer-db/issues/328) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+1. 🗣 Commented on [#1069](https://github.com/moleculerjs/moleculer/issues/1069) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+2. 💪 Opened PR [#1152](https://github.com/moleculerjs/moleculer/pull/1152) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+3. 🗣 Commented on [#1069](https://github.com/moleculerjs/moleculer/issues/1069) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+4. 💪 Opened PR [#329](https://github.com/moleculerjs/moleculer-db/pull/329) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+5. 🎉 Merged PR [#501](https://github.com/thib3113/unifi-client/pull/501) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
