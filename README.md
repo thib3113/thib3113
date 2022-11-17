@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/Odania-IT/docker-seopanel/pull/1) in [Odania-IT/docker-seopanel](https://github.com/Odania-IT/docker-seopanel)
-2. 🗣 Commented on [#1069](https://github.com/moleculerjs/moleculer/issues/1069) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
-3. 💪 Opened PR [#1152](https://github.com/moleculerjs/moleculer/pull/1152) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+1. 🎉 Merged PR [#167](https://github.com/thib3113/vban/pull/167) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🎉 Merged PR [#509](https://github.com/thib3113/unifi-client/pull/509) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. ❌ Closed PR [#1](https://github.com/Odania-IT/docker-seopanel/pull/1) in [Odania-IT/docker-seopanel](https://github.com/Odania-IT/docker-seopanel)
 4. 🗣 Commented on [#1069](https://github.com/moleculerjs/moleculer/issues/1069) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
-5. 💪 Opened PR [#329](https://github.com/moleculerjs/moleculer-db/pull/329) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+5. 💪 Opened PR [#1152](https://github.com/moleculerjs/moleculer/pull/1152) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
  <!--END_SECTION:activity-->
 
 </details>
