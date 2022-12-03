@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1069](https://github.com/moleculerjs/moleculer/issues/1069) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
-2. ❌ Closed PR [#1069](https://github.com/moleculerjs/moleculer/pull/1069) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
-3. ❌ Reopened PR [#1069](https://github.com/moleculerjs/moleculer/pull/1069) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
-4. ❗️ Opened issue [#28](https://github.com/jwbay/i18next-json-sync/issues/28) in [jwbay/i18next-json-sync](https://github.com/jwbay/i18next-json-sync)
-5. 💪 Opened PR [#1157](https://github.com/moleculerjs/moleculer/pull/1157) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+1. 💪 Opened PR [#1161](https://github.com/moleculerjs/moleculer/pull/1161) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+2. 🗣 Commented on [#1069](https://github.com/moleculerjs/moleculer/issues/1069) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+3. ❌ Closed PR [#1069](https://github.com/moleculerjs/moleculer/pull/1069) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+4. ❌ Reopened PR [#1069](https://github.com/moleculerjs/moleculer/pull/1069) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+5. ❗️ Opened issue [#28](https://github.com/jwbay/i18next-json-sync/issues/28) in [jwbay/i18next-json-sync](https://github.com/jwbay/i18next-json-sync)
  <!--END_SECTION:activity-->
 
 </details>
