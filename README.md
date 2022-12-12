@@ -28,10 +28,10 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1164](https://github.com/moleculerjs/moleculer/issues/1164) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
-2. ❗️ Opened issue [#3](https://github.com/flipperdevices/flipper-update-server/issues/3) in [flipperdevices/flipper-update-server](https://github.com/flipperdevices/flipper-update-server)
-3. 🗣 Commented on [#1164](https://github.com/moleculerjs/moleculer/issues/1164) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
-4. 🗣 Commented on [#1161](https://github.com/moleculerjs/moleculer/issues/1161) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+1. 🎉 Merged PR [#184](https://github.com/thib3113/vban/pull/184) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🗣 Commented on [#1164](https://github.com/moleculerjs/moleculer/issues/1164) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+3. ❗️ Opened issue [#3](https://github.com/flipperdevices/flipper-update-server/issues/3) in [flipperdevices/flipper-update-server](https://github.com/flipperdevices/flipper-update-server)
+4. 🗣 Commented on [#1164](https://github.com/moleculerjs/moleculer/issues/1164) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
 5. 🗣 Commented on [#1161](https://github.com/moleculerjs/moleculer/issues/1161) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
  <!--END_SECTION:activity-->
 
