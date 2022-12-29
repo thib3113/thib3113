@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#48](https://github.com/moleculerjs/awesome-moleculer/pull/48) in [moleculerjs/awesome-moleculer](https://github.com/moleculerjs/awesome-moleculer)
-2. 🎉 Merged PR [#538](https://github.com/thib3113/unifi-client/pull/538) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🎉 Merged PR [#194](https://github.com/thib3113/vban/pull/194) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#530](https://github.com/thib3113/unifi-client/pull/530) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🎉 Merged PR [#187](https://github.com/thib3113/vban/pull/187) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🗣 Commented on [#48](https://github.com/moleculerjs/awesome-moleculer/issues/48) in [moleculerjs/awesome-moleculer](https://github.com/moleculerjs/awesome-moleculer)
+2. 💪 Opened PR [#48](https://github.com/moleculerjs/awesome-moleculer/pull/48) in [moleculerjs/awesome-moleculer](https://github.com/moleculerjs/awesome-moleculer)
+3. 🎉 Merged PR [#538](https://github.com/thib3113/unifi-client/pull/538) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🎉 Merged PR [#194](https://github.com/thib3113/vban/pull/194) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#530](https://github.com/thib3113/unifi-client/pull/530) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
