@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#73](https://github.com/sindresorhus/pokemon/pull/73) in [sindresorhus/pokemon](https://github.com/sindresorhus/pokemon)
-2. 🎉 Merged PR [#203](https://github.com/thib3113/vban/pull/203) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🗣 Commented on [#539](https://github.com/thib3113/unifi-client/issues/539) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🗣 Commented on [#48](https://github.com/moleculerjs/awesome-moleculer/issues/48) in [moleculerjs/awesome-moleculer](https://github.com/moleculerjs/awesome-moleculer)
-5. 💪 Opened PR [#48](https://github.com/moleculerjs/awesome-moleculer/pull/48) in [moleculerjs/awesome-moleculer](https://github.com/moleculerjs/awesome-moleculer)
+1. ❗️ Opened issue [#1](https://github.com/joelnet/konami-code-react-component/issues/1) in [joelnet/konami-code-react-component](https://github.com/joelnet/konami-code-react-component)
+2. 💪 Opened PR [#73](https://github.com/sindresorhus/pokemon/pull/73) in [sindresorhus/pokemon](https://github.com/sindresorhus/pokemon)
+3. 🎉 Merged PR [#203](https://github.com/thib3113/vban/pull/203) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🗣 Commented on [#539](https://github.com/thib3113/unifi-client/issues/539) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 🗣 Commented on [#48](https://github.com/moleculerjs/awesome-moleculer/issues/48) in [moleculerjs/awesome-moleculer](https://github.com/moleculerjs/awesome-moleculer)
  <!--END_SECTION:activity-->
 
 </details>
