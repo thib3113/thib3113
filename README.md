@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/joelnet/konami-code-react-component/issues/1) in [joelnet/konami-code-react-component](https://github.com/joelnet/konami-code-react-component)
-2. 💪 Opened PR [#2](https://github.com/joelnet/konami-code-react-component/pull/2) in [joelnet/konami-code-react-component](https://github.com/joelnet/konami-code-react-component)
-3. ❗️ Opened issue [#1](https://github.com/joelnet/konami-code-react-component/issues/1) in [joelnet/konami-code-react-component](https://github.com/joelnet/konami-code-react-component)
-4. 💪 Opened PR [#73](https://github.com/sindresorhus/pokemon/pull/73) in [sindresorhus/pokemon](https://github.com/sindresorhus/pokemon)
-5. 🎉 Merged PR [#203](https://github.com/thib3113/vban/pull/203) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🎉 Merged PR [#9](https://github.com/centreon/centreon-grafana-datasource/pull/9) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
+2. 🗣 Commented on [#1](https://github.com/joelnet/konami-code-react-component/issues/1) in [joelnet/konami-code-react-component](https://github.com/joelnet/konami-code-react-component)
+3. 💪 Opened PR [#2](https://github.com/joelnet/konami-code-react-component/pull/2) in [joelnet/konami-code-react-component](https://github.com/joelnet/konami-code-react-component)
+4. ❗️ Opened issue [#1](https://github.com/joelnet/konami-code-react-component/issues/1) in [joelnet/konami-code-react-component](https://github.com/joelnet/konami-code-react-component)
+5. 💪 Opened PR [#73](https://github.com/sindresorhus/pokemon/pull/73) in [sindresorhus/pokemon](https://github.com/sindresorhus/pokemon)
  <!--END_SECTION:activity-->
 
 </details>
