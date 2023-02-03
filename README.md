@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#573](https://github.com/thib3113/unifi-client/pull/573) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 💪 Opened PR [#573](https://github.com/thib3113/unifi-client/pull/573) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🎉 Merged PR [#330](https://github.com/thib3113/unifi-blockips-srv/pull/330) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-4. 🎉 Merged PR [#9](https://github.com/centreon/centreon-grafana-datasource/pull/9) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
-5. 🗣 Commented on [#1](https://github.com/joelnet/konami-code-react-component/issues/1) in [joelnet/konami-code-react-component](https://github.com/joelnet/konami-code-react-component)
+1. ❌ Closed PR [#574](https://github.com/thib3113/unifi-client/pull/574) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🎉 Merged PR [#573](https://github.com/thib3113/unifi-client/pull/573) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 💪 Opened PR [#573](https://github.com/thib3113/unifi-client/pull/573) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🎉 Merged PR [#330](https://github.com/thib3113/unifi-blockips-srv/pull/330) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+5. 🎉 Merged PR [#9](https://github.com/centreon/centreon-grafana-datasource/pull/9) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
  <!--END_SECTION:activity-->
 
 </details>
