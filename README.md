@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1308](https://github.com/jsforce/jsforce/issues/1308) in [jsforce/jsforce](https://github.com/jsforce/jsforce)
-2. 🗣 Commented on [#5807](https://github.com/pnpm/pnpm/issues/5807) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-3. 🎉 Merged PR [#224](https://github.com/thib3113/vban/pull/224) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#582](https://github.com/thib3113/unifi-client/pull/582) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. ❌ Closed PR [#574](https://github.com/thib3113/unifi-client/pull/574) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🎉 Merged PR [#593](https://github.com/thib3113/unifi-client/pull/593) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🎉 Merged PR [#232](https://github.com/thib3113/vban/pull/232) in [thib3113/vban](https://github.com/thib3113/vban)
+3. ❗️ Opened issue [#1308](https://github.com/jsforce/jsforce/issues/1308) in [jsforce/jsforce](https://github.com/jsforce/jsforce)
+4. 🗣 Commented on [#5807](https://github.com/pnpm/pnpm/issues/5807) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+5. 🎉 Merged PR [#224](https://github.com/thib3113/vban/pull/224) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
