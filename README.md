@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1161](https://github.com/moleculerjs/moleculer/issues/1161) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
-2. 🎉 Merged PR [#595](https://github.com/thib3113/unifi-client/pull/595) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🗣 Commented on [#775](https://github.com/fkhadra/react-toastify/issues/775) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
-4. 🎉 Merged PR [#19](https://github.com/centreon/centreon-grafana-datasource/pull/19) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
-5. 💪 Opened PR [#19](https://github.com/centreon/centreon-grafana-datasource/pull/19) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
+1. ❗️ Opened issue [#352](https://github.com/moleculerjs/moleculer-db/issues/352) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+2. 🗣 Commented on [#1161](https://github.com/moleculerjs/moleculer/issues/1161) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+3. 🎉 Merged PR [#595](https://github.com/thib3113/unifi-client/pull/595) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🗣 Commented on [#775](https://github.com/fkhadra/react-toastify/issues/775) in [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
+5. 🎉 Merged PR [#19](https://github.com/centreon/centreon-grafana-datasource/pull/19) in [centreon/centreon-grafana-datasource](https://github.com/centreon/centreon-grafana-datasource)
  <!--END_SECTION:activity-->
 
 </details>
