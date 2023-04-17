@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#79](https://github.com/matomo-org/tracker-proxy/issues/79) in [matomo-org/tracker-proxy](https://github.com/matomo-org/tracker-proxy)
-2. ❌ Closed PR [#11](https://github.com/Spailybot/matomo-tracker/pull/11) in [Spailybot/matomo-tracker](https://github.com/Spailybot/matomo-tracker)
-3. ❌ Closed PR [#12](https://github.com/Spailybot/matomo-tracker/pull/12) in [Spailybot/matomo-tracker](https://github.com/Spailybot/matomo-tracker)
-4. ❌ Closed PR [#15](https://github.com/Spailybot/matomo-tracker/pull/15) in [Spailybot/matomo-tracker](https://github.com/Spailybot/matomo-tracker)
-5. ❌ Closed PR [#14](https://github.com/Spailybot/matomo-tracker/pull/14) in [Spailybot/matomo-tracker](https://github.com/Spailybot/matomo-tracker)
+1. ❗️ Opened issue [#7391](https://github.com/matomo-org/device-detector/issues/7391) in [matomo-org/device-detector](https://github.com/matomo-org/device-detector)
+2. 🗣 Commented on [#79](https://github.com/matomo-org/tracker-proxy/issues/79) in [matomo-org/tracker-proxy](https://github.com/matomo-org/tracker-proxy)
+3. ❌ Closed PR [#11](https://github.com/Spailybot/matomo-tracker/pull/11) in [Spailybot/matomo-tracker](https://github.com/Spailybot/matomo-tracker)
+4. ❌ Closed PR [#12](https://github.com/Spailybot/matomo-tracker/pull/12) in [Spailybot/matomo-tracker](https://github.com/Spailybot/matomo-tracker)
+5. ❌ Closed PR [#15](https://github.com/Spailybot/matomo-tracker/pull/15) in [Spailybot/matomo-tracker](https://github.com/Spailybot/matomo-tracker)
  <!--END_SECTION:activity-->
 
 </details>
