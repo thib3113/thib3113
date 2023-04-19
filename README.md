@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#7392](https://github.com/matomo-org/device-detector/pull/7392) in [matomo-org/device-detector](https://github.com/matomo-org/device-detector)
-2. 🗣 Commented on [#7391](https://github.com/matomo-org/device-detector/issues/7391) in [matomo-org/device-detector](https://github.com/matomo-org/device-detector)
-3. ❗️ Opened issue [#7391](https://github.com/matomo-org/device-detector/issues/7391) in [matomo-org/device-detector](https://github.com/matomo-org/device-detector)
-4. 🗣 Commented on [#79](https://github.com/matomo-org/tracker-proxy/issues/79) in [matomo-org/tracker-proxy](https://github.com/matomo-org/tracker-proxy)
-5. ❌ Closed PR [#11](https://github.com/Spailybot/matomo-tracker/pull/11) in [Spailybot/matomo-tracker](https://github.com/Spailybot/matomo-tracker)
+1. 🗣 Commented on [#7392](https://github.com/matomo-org/device-detector/issues/7392) in [matomo-org/device-detector](https://github.com/matomo-org/device-detector)
+2. 💪 Opened PR [#7392](https://github.com/matomo-org/device-detector/pull/7392) in [matomo-org/device-detector](https://github.com/matomo-org/device-detector)
+3. 🗣 Commented on [#7391](https://github.com/matomo-org/device-detector/issues/7391) in [matomo-org/device-detector](https://github.com/matomo-org/device-detector)
+4. ❗️ Opened issue [#7391](https://github.com/matomo-org/device-detector/issues/7391) in [matomo-org/device-detector](https://github.com/matomo-org/device-detector)
+5. 🗣 Commented on [#79](https://github.com/matomo-org/tracker-proxy/issues/79) in [matomo-org/tracker-proxy](https://github.com/matomo-org/tracker-proxy)
  <!--END_SECTION:activity-->
 
 </details>
