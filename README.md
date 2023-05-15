@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1495](https://github.com/open-telemetry/opentelemetry-js-contrib/pull/1495) in [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib)
-2. 🎉 Merged PR [#618](https://github.com/thib3113/unifi-client/pull/618) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🎉 Merged PR [#357](https://github.com/thib3113/unifi-blockips-srv/pull/357) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-4. 🎉 Merged PR [#620](https://github.com/thib3113/unifi-client/pull/620) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🎉 Merged PR [#623](https://github.com/thib3113/unifi-client/pull/623) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🗣 Commented on [#1495](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1495) in [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib)
+2. 💪 Opened PR [#1495](https://github.com/open-telemetry/opentelemetry-js-contrib/pull/1495) in [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib)
+3. 🎉 Merged PR [#618](https://github.com/thib3113/unifi-client/pull/618) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🎉 Merged PR [#357](https://github.com/thib3113/unifi-blockips-srv/pull/357) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+5. 🎉 Merged PR [#620](https://github.com/thib3113/unifi-client/pull/620) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
