@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1548](https://github.com/centreon/centreon/pull/1548) in [centreon/centreon](https://github.com/centreon/centreon)
-2. 🗣 Commented on [#1495](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1495) in [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib)
+1. 🎉 Merged PR [#1548](https://github.com/centreon/centreon/pull/1548) in [centreon/centreon](https://github.com/centreon/centreon)
+2. 💪 Opened PR [#1548](https://github.com/centreon/centreon/pull/1548) in [centreon/centreon](https://github.com/centreon/centreon)
 3. 🗣 Commented on [#1495](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1495) in [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib)
-4. 💪 Opened PR [#1495](https://github.com/open-telemetry/opentelemetry-js-contrib/pull/1495) in [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib)
-5. 🎉 Merged PR [#618](https://github.com/thib3113/unifi-client/pull/618) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🗣 Commented on [#1495](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1495) in [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib)
+5. 💪 Opened PR [#1495](https://github.com/open-telemetry/opentelemetry-js-contrib/pull/1495) in [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib)
  <!--END_SECTION:activity-->
 
 </details>
