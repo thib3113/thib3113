@@ -28,10 +28,10 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#52](https://github.com/jkroso/parse-duration/issues/52) in [jkroso/parse-duration](https://github.com/jkroso/parse-duration)
-2. 🎉 Merged PR [#1548](https://github.com/centreon/centreon/pull/1548) in [centreon/centreon](https://github.com/centreon/centreon)
-3. 💪 Opened PR [#1548](https://github.com/centreon/centreon/pull/1548) in [centreon/centreon](https://github.com/centreon/centreon)
-4. 🗣 Commented on [#1495](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1495) in [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib)
+1. 💪 Opened PR [#3](https://github.com/thib3113/node-crowdsec/pull/3) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. ❗ Opened issue [#52](https://github.com/jkroso/parse-duration/issues/52) in [jkroso/parse-duration](https://github.com/jkroso/parse-duration)
+3. 🎉 Merged PR [#1548](https://github.com/centreon/centreon/pull/1548) in [centreon/centreon](https://github.com/centreon/centreon)
+4. 💪 Opened PR [#1548](https://github.com/centreon/centreon/pull/1548) in [centreon/centreon](https://github.com/centreon/centreon)
 5. 🗣 Commented on [#1495](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1495) in [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib)
  <!--END_SECTION:activity-->
 
