@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/thib3113/node-crowdsec/pull/3) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 💪 Opened PR [#3](https://github.com/thib3113/node-crowdsec/pull/3) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. ❗ Opened issue [#52](https://github.com/jkroso/parse-duration/issues/52) in [jkroso/parse-duration](https://github.com/jkroso/parse-duration)
-4. 🎉 Merged PR [#1548](https://github.com/centreon/centreon/pull/1548) in [centreon/centreon](https://github.com/centreon/centreon)
-5. 💪 Opened PR [#1548](https://github.com/centreon/centreon/pull/1548) in [centreon/centreon](https://github.com/centreon/centreon)
+1. 🎉 Merged PR [#4](https://github.com/thib3113/node-crowdsec/pull/4) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🎉 Merged PR [#3](https://github.com/thib3113/node-crowdsec/pull/3) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 💪 Opened PR [#3](https://github.com/thib3113/node-crowdsec/pull/3) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. ❗ Opened issue [#52](https://github.com/jkroso/parse-duration/issues/52) in [jkroso/parse-duration](https://github.com/jkroso/parse-duration)
+5. 🎉 Merged PR [#1548](https://github.com/centreon/centreon/pull/1548) in [centreon/centreon](https://github.com/centreon/centreon)
  <!--END_SECTION:activity-->
 
 </details>
