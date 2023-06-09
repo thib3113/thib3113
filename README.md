@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [crowdsec-client/v0.0.12](https://github.com/crowdsec-client/v0.0.12) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 🚀 Published release [crowdsec-client/v0.0.11](https://github.com/crowdsec-client/v0.0.11) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🚀 Published release [crowdsec-client/v0.0.10](https://github.com/crowdsec-client/v0.0.10) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🚀 Published release [crowdsec-client/v0.0.9 - test](https://github.com/crowdsec-client/v0.0.9 - test) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🚀 Published release [crowdsec-client/v0.0.8 - test](https://github.com/crowdsec-client/v0.0.8 - test) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. 🚀 Published release [crowdsec-client/v0.0.14](https://github.com/crowdsec-client/v0.0.14) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🚀 Published release [crowdsec-client/v0.0.13](https://github.com/crowdsec-client/v0.0.13) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🚀 Published release [crowdsec-client/v0.0.12](https://github.com/crowdsec-client/v0.0.12) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 🚀 Published release [crowdsec-client/v0.0.11](https://github.com/crowdsec-client/v0.0.11) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🚀 Published release [crowdsec-client/v0.0.10](https://github.com/crowdsec-client/v0.0.10) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
