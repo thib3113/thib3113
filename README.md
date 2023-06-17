@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#624](https://github.com/thib3113/unifi-client/pull/624) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🎉 Merged PR [#5](https://github.com/thib3113/node-crowdsec/pull/5) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🚀 Published release [crowdsec-client/v0.0.14](https://github.com/crowdsec-client/v0.0.14) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🚀 Published release [crowdsec-client/v0.0.13](https://github.com/crowdsec-client/v0.0.13) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🚀 Published release [crowdsec-client/v0.0.12](https://github.com/crowdsec-client/v0.0.12) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. 💪 Opened PR [#6](https://github.com/thib3113/node-crowdsec/pull/6) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 💪 Opened PR [#624](https://github.com/thib3113/unifi-client/pull/624) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 🎉 Merged PR [#5](https://github.com/thib3113/node-crowdsec/pull/5) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 🚀 Published release [crowdsec-client/v0.0.14](https://github.com/crowdsec-client/v0.0.14) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🚀 Published release [crowdsec-client/v0.0.13](https://github.com/crowdsec-client/v0.0.13) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
