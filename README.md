@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#640](https://github.com/thib3113/unifi-client/pull/640#issuecomment-1649636029) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🗣 Commented on [#640](https://github.com/thib3113/unifi-client/pull/640#issuecomment-1649478957) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🗣 Commented on [#195](https://github.com/Art-of-WiFi/UniFi-API-client/pull/195#issuecomment-1646677568) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
-4. 🗣 Commented on [#195](https://github.com/Art-of-WiFi/UniFi-API-client/pull/195#issuecomment-1645067278) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
-5. 💪 Opened PR [#639](https://github.com/thib3113/unifi-client/pull/639) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🗣 Commented on [#640](https://github.com/thib3113/unifi-client/pull/640#issuecomment-1651629267) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🗣 Commented on [#640](https://github.com/thib3113/unifi-client/pull/640#issuecomment-1649636029) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 🗣 Commented on [#640](https://github.com/thib3113/unifi-client/pull/640#issuecomment-1649478957) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🗣 Commented on [#195](https://github.com/Art-of-WiFi/UniFi-API-client/pull/195#issuecomment-1646677568) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
+5. 🗣 Commented on [#195](https://github.com/Art-of-WiFi/UniFi-API-client/pull/195#issuecomment-1645067278) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
  <!--END_SECTION:activity-->
 
 </details>
