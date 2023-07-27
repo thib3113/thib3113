@@ -6,7 +6,7 @@ I'm a backend developper
 
 -   📝 CV / Blog : https://thib3113.fr
 -   My codersRank : https://profile.codersrank.io/user/thib3113/
--   <a href="https://www.linkedin.com/in/thib3113/"><img align="left" alt="Thib3113's Linkedin" width="21px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a> https://www.linkedin.com/in/thib3113/
+-   <a href="https://www.linkedin.com/in/thib3113/"><img align="left" alt="Thib3113's Linkedin" width="21px" src="https://img.icons8.com/color/48/linkedin.png" /></a> https://www.linkedin.com/in/thib3113/
 
 📊 **This week I spent my time on**
 
