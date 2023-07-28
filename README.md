@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [crowdsec-client-scenarios/v0.0.2](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.2) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 🎉 Merged PR [#9](https://github.com/thib3113/node-crowdsec/pull/9) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🗣 Commented on [#153](https://github.com/beaugunderson/ip-address/issues/153#issuecomment-1656310394) in [beaugunderson/ip-address](https://github.com/beaugunderson/ip-address)
-4. 💪 Opened PR [#9](https://github.com/thib3113/node-crowdsec/pull/9) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. ❗ Opened issue [#15](https://github.com/simonsmith/cypress-image-snapshot/issues/15) in [simonsmith/cypress-image-snapshot](https://github.com/simonsmith/cypress-image-snapshot)
+1. 🚀 Published release [crowdsec-client-scenarios/v0.0.4](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.4) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🚀 Published release [crowdsec-client-scenarios/v0.0.3](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.3) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🚀 Published release [crowdsec-http-middleware/v0.0.2](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.2) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 🚀 Published release [crowdsec-client-scenarios/v0.0.2](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.2) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🚀 Published release [crowdsec-client-scenarios/v0.0.2](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.2) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
