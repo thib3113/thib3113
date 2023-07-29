@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [crowdsec-client-scenarios/v0.0.6](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.6) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 🚀 Published release [crowdsec-client-scenarios/v0.0.5](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.5) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🚀 Published release [crowdsec-client-scenarios/v0.0.4](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.4) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🚀 Published release [crowdsec-client-scenarios/v0.0.3](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.3) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🚀 Published release [crowdsec-http-middleware/v0.0.2](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.2) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. 🚀 Published release [crowdsec-client/v0.1.1](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client/v0.1.1) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🚀 Published release [crowdsec-client-scenarios/v0.0.6](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.6) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🚀 Published release [crowdsec-client-scenarios/v0.0.5](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.5) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 🚀 Published release [crowdsec-client-scenarios/v0.0.4](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.4) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🚀 Published release [crowdsec-client-scenarios/v0.0.3](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.3) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
