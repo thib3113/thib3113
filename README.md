@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#15](https://github.com/simonsmith/cypress-image-snapshot/issues/15#issuecomment-1659232303) in [simonsmith/cypress-image-snapshot](https://github.com/simonsmith/cypress-image-snapshot)
-2. 🚀 Published release [crowdsec-http-middleware/v0.0.3](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.3) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🚀 Published release [crowdsec-client-scenarios/v0.0.7](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.7) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🚀 Published release [crowdsec-http-middleware/v0.0.3](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.3) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🔒 Closed issue [#638](https://github.com/thib3113/unifi-client/issues/638) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🗣 Commented on [#641](https://github.com/thib3113/unifi-client/pull/641#issuecomment-1659989327) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🗣 Commented on [#15](https://github.com/simonsmith/cypress-image-snapshot/issues/15#issuecomment-1659232303) in [simonsmith/cypress-image-snapshot](https://github.com/simonsmith/cypress-image-snapshot)
+3. 🚀 Published release [crowdsec-http-middleware/v0.0.3](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.3) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 🚀 Published release [crowdsec-client-scenarios/v0.0.7](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.7) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🚀 Published release [crowdsec-http-middleware/v0.0.3](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.3) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
