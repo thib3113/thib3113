@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#21](https://github.com/thib3113/node-crowdsec/pull/21) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 🎉 Merged PR [#19](https://github.com/thib3113/node-crowdsec/pull/19) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🎉 Merged PR [#20](https://github.com/thib3113/node-crowdsec/pull/20) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🎉 Merged PR [#18](https://github.com/thib3113/node-crowdsec/pull/18) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🎉 Merged PR [#15](https://github.com/thib3113/node-crowdsec/pull/15) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. ❗ Opened issue [#35](https://github.com/HON95/prometheus-nut-exporter/issues/35) in [HON95/prometheus-nut-exporter](https://github.com/HON95/prometheus-nut-exporter)
+2. 🎉 Merged PR [#21](https://github.com/thib3113/node-crowdsec/pull/21) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🎉 Merged PR [#19](https://github.com/thib3113/node-crowdsec/pull/19) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 🎉 Merged PR [#20](https://github.com/thib3113/node-crowdsec/pull/20) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🎉 Merged PR [#18](https://github.com/thib3113/node-crowdsec/pull/18) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
