@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [crowdsec-http-middleware/v0.0.5](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.5) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 🚀 Published release [crowdsec-client-scenarios/v0.0.9](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.9) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🎉 Merged PR [#28](https://github.com/thib3113/node-crowdsec/pull/28) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 💪 Opened PR [#28](https://github.com/thib3113/node-crowdsec/pull/28) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🚀 Published release [crowdsec-http-middleware/v0.0.4](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.4) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. 🎉 Merged PR [#29](https://github.com/thib3113/node-crowdsec/pull/29) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🚀 Published release [crowdsec-client-scenarios/v0.0.10](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.10) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🎉 Merged PR [#30](https://github.com/thib3113/node-crowdsec/pull/30) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 💪 Opened PR [#30](https://github.com/thib3113/node-crowdsec/pull/30) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 💪 Opened PR [#29](https://github.com/thib3113/node-crowdsec/pull/29) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
