@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [crowdsec-client-scenarios/v0.0.11](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.11) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 🚀 Published release [crowdsec-http-middleware/v0.0.6](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.6) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🎉 Merged PR [#29](https://github.com/thib3113/node-crowdsec/pull/29) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🚀 Published release [crowdsec-client-scenarios/v0.0.10](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.10) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🎉 Merged PR [#30](https://github.com/thib3113/node-crowdsec/pull/30) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. 🚀 Published release [crowdsec-client-scenarios/v0.0.12](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.12) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🚀 Published release [crowdsec-client-scenarios/v0.0.11](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.11) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🚀 Published release [crowdsec-http-middleware/v0.0.6](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.6) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 🎉 Merged PR [#29](https://github.com/thib3113/node-crowdsec/pull/29) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🚀 Published release [crowdsec-client-scenarios/v0.0.10](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.10) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
