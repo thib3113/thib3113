@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#31](https://github.com/thib3113/node-crowdsec/pull/31) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 💪 Opened PR [#31](https://github.com/thib3113/node-crowdsec/pull/31) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🎉 Merged PR [#644](https://github.com/thib3113/unifi-client/pull/644) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🎉 Merged PR [#645](https://github.com/thib3113/unifi-client/pull/645) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🗣 Commented on [#361](https://github.com/moleculerjs/moleculer-db/issues/361#issuecomment-1691635541) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+1. 🚀 Published release [crowdsec-client-scenarios/v0.0.13](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.13) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🎉 Merged PR [#31](https://github.com/thib3113/node-crowdsec/pull/31) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 💪 Opened PR [#31](https://github.com/thib3113/node-crowdsec/pull/31) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 🎉 Merged PR [#644](https://github.com/thib3113/unifi-client/pull/644) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 🎉 Merged PR [#645](https://github.com/thib3113/unifi-client/pull/645) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
