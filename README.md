@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#367](https://github.com/moleculerjs/moleculer-db/pull/367#issuecomment-1710695628) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
-2. 🚀 Published release [crowdsec-http-middleware/v0.0.7](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.7) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🚀 Published release [crowdsec-client-scenarios/v0.0.13](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.13) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🎉 Merged PR [#31](https://github.com/thib3113/node-crowdsec/pull/31) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 💪 Opened PR [#31](https://github.com/thib3113/node-crowdsec/pull/31) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. 🗣 Commented on [#367](https://github.com/moleculerjs/moleculer-db/pull/367#issuecomment-1711354850) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+2. 🗣 Commented on [#367](https://github.com/moleculerjs/moleculer-db/pull/367#issuecomment-1710695628) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+3. 🚀 Published release [crowdsec-http-middleware/v0.0.7](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.7) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 🚀 Published release [crowdsec-client-scenarios/v0.0.13](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client-scenarios/v0.0.13) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🎉 Merged PR [#31](https://github.com/thib3113/node-crowdsec/pull/31) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
