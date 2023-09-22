@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#646](https://github.com/thib3113/unifi-client/issues/646#issuecomment-1731980821) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🚀 Published release [v0.10.0](https://github.com/thib3113/unifi-client/releases/tag/v0.10.0) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🗣 Commented on [#367](https://github.com/moleculerjs/moleculer-db/pull/367#issuecomment-1731977757) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
-4. 🔒 Closed issue [#646](https://github.com/thib3113/unifi-client/issues/646) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🎉 Merged PR [#648](https://github.com/thib3113/unifi-client/pull/648) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 💪 Opened PR [#370](https://github.com/moleculerjs/moleculer-db/pull/370) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+2. 🗣 Commented on [#646](https://github.com/thib3113/unifi-client/issues/646#issuecomment-1731980821) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 🚀 Published release [v0.10.0](https://github.com/thib3113/unifi-client/releases/tag/v0.10.0) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🗣 Commented on [#367](https://github.com/moleculerjs/moleculer-db/pull/367#issuecomment-1731977757) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+5. 🔒 Closed issue [#646](https://github.com/thib3113/unifi-client/issues/646) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
