@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#367](https://github.com/moleculerjs/moleculer-db/pull/367#issuecomment-1724408787) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
-2. 🗣 Commented on [#153](https://github.com/beaugunderson/ip-address/issues/153#issuecomment-1719197306) in [beaugunderson/ip-address](https://github.com/beaugunderson/ip-address)
-3. 🗣 Commented on [#646](https://github.com/thib3113/unifi-client/issues/646#issuecomment-1719147206) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🗣 Commented on [#367](https://github.com/moleculerjs/moleculer-db/pull/367#issuecomment-1711354850) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
-5. 🗣 Commented on [#367](https://github.com/moleculerjs/moleculer-db/pull/367#issuecomment-1710695628) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+1. 🎉 Merged PR [#32](https://github.com/thib3113/node-crowdsec/pull/32) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🗣 Commented on [#367](https://github.com/moleculerjs/moleculer-db/pull/367#issuecomment-1724408787) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+3. 🗣 Commented on [#153](https://github.com/beaugunderson/ip-address/issues/153#issuecomment-1719197306) in [beaugunderson/ip-address](https://github.com/beaugunderson/ip-address)
+4. 🗣 Commented on [#646](https://github.com/thib3113/unifi-client/issues/646#issuecomment-1719147206) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 🗣 Commented on [#367](https://github.com/moleculerjs/moleculer-db/pull/367#issuecomment-1711354850) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
  <!--END_SECTION:activity-->
 
 </details>
