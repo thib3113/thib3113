@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#23](https://github.com/grinat/moleculer-auto-openapi/issues/23) in [grinat/moleculer-auto-openapi](https://github.com/grinat/moleculer-auto-openapi)
-2. 💪 Opened PR [#339](https://github.com/icebob/fastest-validator/pull/339) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
-3. ❗ Opened issue [#338](https://github.com/icebob/fastest-validator/issues/338) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
-4. 💪 Opened PR [#336](https://github.com/moleculerjs/moleculer-web/pull/336) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
-5. 🗣 Commented on [#370](https://github.com/moleculerjs/moleculer-db/pull/370#issuecomment-1738002403) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+1. 🗣 Commented on [#339](https://github.com/icebob/fastest-validator/pull/339#issuecomment-1748308961) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+2. ❗ Opened issue [#23](https://github.com/grinat/moleculer-auto-openapi/issues/23) in [grinat/moleculer-auto-openapi](https://github.com/grinat/moleculer-auto-openapi)
+3. 💪 Opened PR [#339](https://github.com/icebob/fastest-validator/pull/339) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+4. ❗ Opened issue [#338](https://github.com/icebob/fastest-validator/issues/338) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+5. 💪 Opened PR [#336](https://github.com/moleculerjs/moleculer-web/pull/336) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
  <!--END_SECTION:activity-->
 
 </details>
