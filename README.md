@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#671](https://github.com/thib3113/unifi-client/issues/671) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🎉 Merged PR [#672](https://github.com/thib3113/unifi-client/pull/672) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 💪 Opened PR [#672](https://github.com/thib3113/unifi-client/pull/672) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. ❗ Opened issue [#671](https://github.com/thib3113/unifi-client/issues/671) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🗣 Commented on [#202](https://github.com/Art-of-WiFi/UniFi-API-client/issues/202#issuecomment-1803775627) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
+1. 🚀 Published release [UnifiOS 3.2 support](https://github.com/thib3113/unifi-client/releases/tag/v0.11.0) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🎉 Merged PR [#47](https://github.com/thib3113/node-crowdsec/pull/47) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🎉 Merged PR [#48](https://github.com/thib3113/node-crowdsec/pull/48) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 🎉 Merged PR [#649](https://github.com/thib3113/unifi-client/pull/649) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 💪 Opened PR [#48](https://github.com/thib3113/node-crowdsec/pull/48) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
