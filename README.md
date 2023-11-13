@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#657](https://github.com/thib3113/unifi-client/pull/657) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🎉 Merged PR [#38](https://github.com/thib3113/node-crowdsec/pull/38) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🗣 Commented on [#1161](https://github.com/moleculerjs/moleculer/pull/1161#issuecomment-1807250604) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
-4. 🚀 Published release [V1.5.2 - Light docker image](https://github.com/thib3113/unifi-blockips-srv/releases/tag/v1.5.2) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-5. 🚀 Published release [docker fix](https://github.com/thib3113/unifi-blockips-srv/releases/tag/v1.5.1) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+1. 🎉 Merged PR [#665](https://github.com/thib3113/unifi-client/pull/665) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🎉 Merged PR [#657](https://github.com/thib3113/unifi-client/pull/657) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 🎉 Merged PR [#38](https://github.com/thib3113/node-crowdsec/pull/38) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 🗣 Commented on [#1161](https://github.com/moleculerjs/moleculer/pull/1161#issuecomment-1807250604) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+5. 🚀 Published release [V1.5.2 - Light docker image](https://github.com/thib3113/unifi-blockips-srv/releases/tag/v1.5.2) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
  <!--END_SECTION:activity-->
 
 </details>
