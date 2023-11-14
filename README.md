@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#41](https://github.com/thib3113/node-crowdsec/pull/41) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 🎉 Merged PR [#665](https://github.com/thib3113/unifi-client/pull/665) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🎉 Merged PR [#657](https://github.com/thib3113/unifi-client/pull/657) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🎉 Merged PR [#38](https://github.com/thib3113/node-crowdsec/pull/38) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🗣 Commented on [#1161](https://github.com/moleculerjs/moleculer/pull/1161#issuecomment-1807250604) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+1. 💪 Opened PR [#2611](https://github.com/centreon/centreon/pull/2611) in [centreon/centreon](https://github.com/centreon/centreon)
+2. 🎉 Merged PR [#41](https://github.com/thib3113/node-crowdsec/pull/41) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🎉 Merged PR [#665](https://github.com/thib3113/unifi-client/pull/665) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🎉 Merged PR [#657](https://github.com/thib3113/unifi-client/pull/657) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 🎉 Merged PR [#38](https://github.com/thib3113/node-crowdsec/pull/38) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
