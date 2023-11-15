@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#646](https://github.com/thib3113/unifi-client/issues/646#issuecomment-1811437845) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🎉 Merged PR [#666](https://github.com/thib3113/unifi-client/pull/666) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 💪 Opened PR [#2611](https://github.com/centreon/centreon/pull/2611) in [centreon/centreon](https://github.com/centreon/centreon)
-4. 🎉 Merged PR [#41](https://github.com/thib3113/node-crowdsec/pull/41) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🎉 Merged PR [#665](https://github.com/thib3113/unifi-client/pull/665) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🗣 Commented on [#2611](https://github.com/centreon/centreon/pull/2611#issuecomment-1812557572) in [centreon/centreon](https://github.com/centreon/centreon)
+2. ❌ Closed PR [#2611](https://github.com/centreon/centreon/pull/2611) in [centreon/centreon](https://github.com/centreon/centreon)
+3. 💪 Opened PR [#2615](https://github.com/centreon/centreon/pull/2615) in [centreon/centreon](https://github.com/centreon/centreon)
+4. 🗣 Commented on [#646](https://github.com/thib3113/unifi-client/issues/646#issuecomment-1811437845) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 🎉 Merged PR [#666](https://github.com/thib3113/unifi-client/pull/666) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
