@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#675](https://github.com/thib3113/unifi-client/pull/675) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🎉 Merged PR [#677](https://github.com/thib3113/unifi-client/pull/677) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🎉 Merged PR [#676](https://github.com/thib3113/unifi-client/pull/676) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🗣 Commented on [#2615](https://github.com/centreon/centreon/pull/2615#issuecomment-1824267793) in [centreon/centreon](https://github.com/centreon/centreon)
-5. 🗣 Commented on [#2615](https://github.com/centreon/centreon/pull/2615#issuecomment-1822419544) in [centreon/centreon](https://github.com/centreon/centreon)
+1. 🎉 Merged PR [#2615](https://github.com/centreon/centreon/pull/2615) in [centreon/centreon](https://github.com/centreon/centreon)
+2. 🎉 Merged PR [#675](https://github.com/thib3113/unifi-client/pull/675) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 🎉 Merged PR [#677](https://github.com/thib3113/unifi-client/pull/677) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🎉 Merged PR [#676](https://github.com/thib3113/unifi-client/pull/676) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 🗣 Commented on [#2615](https://github.com/centreon/centreon/pull/2615#issuecomment-1824267793) in [centreon/centreon](https://github.com/centreon/centreon)
  <!--END_SECTION:activity-->
 
 </details>
