@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#341](https://github.com/icebob/fastest-validator/pull/341#issuecomment-1826952281) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
-2. 🗣 Commented on [#341](https://github.com/icebob/fastest-validator/pull/341#issuecomment-1826936129) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
-3. 🚀 Published release [try CI](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.4) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-4. 🎉 Merged PR [#2615](https://github.com/centreon/centreon/pull/2615) in [centreon/centreon](https://github.com/centreon/centreon)
-5. 🎉 Merged PR [#675](https://github.com/thib3113/unifi-client/pull/675) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🚀 Published release [v0.1.5](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.5) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. 🗣 Commented on [#341](https://github.com/icebob/fastest-validator/pull/341#issuecomment-1826952281) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+3. 🗣 Commented on [#341](https://github.com/icebob/fastest-validator/pull/341#issuecomment-1826936129) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+4. 🚀 Published release [try CI](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.4) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. 🎉 Merged PR [#2615](https://github.com/centreon/centreon/pull/2615) in [centreon/centreon](https://github.com/centreon/centreon)
  <!--END_SECTION:activity-->
 
 </details>
