@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.1.6](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.6) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-2. 🎉 Merged PR [#1](https://github.com/spailybot/moleculer-auto-openapi/pull/1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3. 💪 Opened PR [#1](https://github.com/spailybot/moleculer-auto-openapi/pull/1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-4. 🚀 Published release [v0.1.5](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.5) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 🗣 Commented on [#341](https://github.com/icebob/fastest-validator/pull/341#issuecomment-1826952281) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+1. 🚀 Published release [v0.1.7](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.7) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. 🚀 Published release [v0.1.6](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.6) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+3. 🎉 Merged PR [#1](https://github.com/spailybot/moleculer-auto-openapi/pull/1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4. 💪 Opened PR [#1](https://github.com/spailybot/moleculer-auto-openapi/pull/1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. 🚀 Published release [v0.1.5](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.5) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
