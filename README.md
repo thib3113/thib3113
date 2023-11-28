@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.1.13](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.13) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-2. 🚀 Published release [v0.1.12](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.12) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3. 🚀 Published release [v1.1.11](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.1.11) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-4. 🚀 Published release [v0.1.10](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.10) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 🚀 Published release [v0.1.9](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.9) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. ❗ Opened issue [#344](https://github.com/moleculerjs/moleculer-web/issues/344) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
+2. ❗ Opened issue [#343](https://github.com/moleculerjs/moleculer-web/issues/343) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
+3. 🚀 Published release [v0.1.13](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.13) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4. 🚀 Published release [v0.1.12](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.12) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. 🚀 Published release [v1.1.11](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.1.11) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
