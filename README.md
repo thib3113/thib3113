@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.1.15](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.15) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-2. 🚀 Published release [v0.1.14](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.14) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3. 💪 Opened PR [#59](https://github.com/moleculerjs/awesome-moleculer/pull/59) in [moleculerjs/awesome-moleculer](https://github.com/moleculerjs/awesome-moleculer)
-4. 🚀 Published release [v0.0.14](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.0.14) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 🚀 Published release [v1.1.14](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.1.14) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. 🗣 Commented on [#339](https://github.com/icebob/fastest-validator/pull/339#issuecomment-1832898154) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+2. 🗣 Commented on [#341](https://github.com/icebob/fastest-validator/pull/341#issuecomment-1832897150) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+3. 🚀 Published release [v0.1.15](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.15) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4. 🚀 Published release [v0.1.14](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.14) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. 💪 Opened PR [#59](https://github.com/moleculerjs/awesome-moleculer/pull/59) in [moleculerjs/awesome-moleculer](https://github.com/moleculerjs/awesome-moleculer)
  <!--END_SECTION:activity-->
 
 </details>
