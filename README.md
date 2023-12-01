@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#297](https://github.com/moleculerjs/moleculer-web/pull/297#issuecomment-1836027750) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
-2. 🗣 Commented on [#339](https://github.com/icebob/fastest-validator/pull/339#issuecomment-1832898154) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
-3. 🗣 Commented on [#341](https://github.com/icebob/fastest-validator/pull/341#issuecomment-1832897150) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
-4. 🚀 Published release [v0.1.15](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.15) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 🚀 Published release [v0.1.14](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.14) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. 🔒 Closed issue [#23](https://github.com/grinat/moleculer-auto-openapi/issues/23) in [grinat/moleculer-auto-openapi](https://github.com/grinat/moleculer-auto-openapi)
+2. 🗣 Commented on [#297](https://github.com/moleculerjs/moleculer-web/pull/297#issuecomment-1836027750) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
+3. 🗣 Commented on [#339](https://github.com/icebob/fastest-validator/pull/339#issuecomment-1832898154) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+4. 🗣 Commented on [#341](https://github.com/icebob/fastest-validator/pull/341#issuecomment-1832897150) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+5. 🚀 Published release [v0.1.15](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v0.1.15) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
