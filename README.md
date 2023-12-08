@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#256](https://github.com/thib3113/vban/pull/256) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 🎉 Merged PR [#258](https://github.com/thib3113/vban/pull/258) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🔒 Closed issue [#23](https://github.com/grinat/moleculer-auto-openapi/issues/23) in [grinat/moleculer-auto-openapi](https://github.com/grinat/moleculer-auto-openapi)
-4. 🗣 Commented on [#297](https://github.com/moleculerjs/moleculer-web/pull/297#issuecomment-1836027750) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
-5. 🗣 Commented on [#339](https://github.com/icebob/fastest-validator/pull/339#issuecomment-1832898154) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+1. 🎉 Merged PR [#250](https://github.com/thib3113/vban/pull/250) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🎉 Merged PR [#259](https://github.com/thib3113/vban/pull/259) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🎉 Merged PR [#260](https://github.com/thib3113/vban/pull/260) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🎉 Merged PR [#256](https://github.com/thib3113/vban/pull/256) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#258](https://github.com/thib3113/vban/pull/258) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
