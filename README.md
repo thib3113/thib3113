@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#247](https://github.com/thib3113/vban/pull/247) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 🎉 Merged PR [#243](https://github.com/thib3113/vban/pull/243) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🎉 Merged PR [#251](https://github.com/thib3113/vban/pull/251) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#257](https://github.com/thib3113/vban/pull/257) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#255](https://github.com/thib3113/vban/pull/255) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🚀 Published release [v1.0.0](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.0.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. 🎉 Merged PR [#249](https://github.com/thib3113/vban/pull/249) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🎉 Merged PR [#247](https://github.com/thib3113/vban/pull/247) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🎉 Merged PR [#243](https://github.com/thib3113/vban/pull/243) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#251](https://github.com/thib3113/vban/pull/251) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
