@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#679](https://github.com/thib3113/unifi-client/pull/679) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🎉 Merged PR [#674](https://github.com/thib3113/unifi-client/pull/674) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🎉 Merged PR [#678](https://github.com/thib3113/unifi-client/pull/678) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🚀 Published release [v1.0.0](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.0.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 🎉 Merged PR [#249](https://github.com/thib3113/vban/pull/249) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🎉 Merged PR [#261](https://github.com/thib3113/vban/pull/261) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🎉 Merged PR [#679](https://github.com/thib3113/unifi-client/pull/679) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 🎉 Merged PR [#674](https://github.com/thib3113/unifi-client/pull/674) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🎉 Merged PR [#678](https://github.com/thib3113/unifi-client/pull/678) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 🚀 Published release [v1.0.0](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.0.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
