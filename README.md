@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [V1.2.0 - Allow custom mappers](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.2.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-2. 🚀 Published release [Allow to filter aliases](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.1.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3. 🎉 Merged PR [#261](https://github.com/thib3113/vban/pull/261) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#679](https://github.com/thib3113/unifi-client/pull/679) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🎉 Merged PR [#674](https://github.com/thib3113/unifi-client/pull/674) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🎉 Merged PR [#252](https://github.com/thib3113/vban/pull/252) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🚀 Published release [V1.2.0 - Allow custom mappers](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.2.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+3. 🚀 Published release [Allow to filter aliases](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.1.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4. 🎉 Merged PR [#261](https://github.com/thib3113/vban/pull/261) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#679](https://github.com/thib3113/unifi-client/pull/679) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
