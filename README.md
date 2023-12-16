@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1858799282) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-2. 🚀 Published release [v1.2.1](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.2.1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3. ❗ Opened issue [#7415](https://github.com/pnpm/pnpm/issues/7415) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-4. 🗣 Commented on [#208](https://github.com/vercel/ms/issues/208#issuecomment-1851180325) in [vercel/ms](https://github.com/vercel/ms)
-5. 🎉 Merged PR [#262](https://github.com/thib3113/vban/pull/262) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1858811661) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+2. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1858799282) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+3. 🚀 Published release [v1.2.1](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.2.1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4. ❗ Opened issue [#7415](https://github.com/pnpm/pnpm/issues/7415) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+5. 🗣 Commented on [#208](https://github.com/vercel/ms/issues/208#issuecomment-1851180325) in [vercel/ms](https://github.com/vercel/ms)
  <!--END_SECTION:activity-->
 
 </details>
