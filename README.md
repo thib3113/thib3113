@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#343](https://github.com/moleculerjs/moleculer-web/issues/343#issuecomment-1859149813) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
-2. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1858811661) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-3. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1858799282) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-4. 🚀 Published release [v1.2.1](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.2.1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. ❗ Opened issue [#7415](https://github.com/pnpm/pnpm/issues/7415) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+1. 🗣 Commented on [#343](https://github.com/moleculerjs/moleculer-web/issues/343#issuecomment-1859154306) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
+2. 🗣 Commented on [#343](https://github.com/moleculerjs/moleculer-web/issues/343#issuecomment-1859149813) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
+3. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1858811661) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+4. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1858799282) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+5. 🚀 Published release [v1.2.1](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.2.1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
