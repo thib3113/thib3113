@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1858811661) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-2. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1858799282) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-3. 🚀 Published release [v1.2.1](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.2.1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-4. ❗ Opened issue [#7415](https://github.com/pnpm/pnpm/issues/7415) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-5. 🗣 Commented on [#208](https://github.com/vercel/ms/issues/208#issuecomment-1851180325) in [vercel/ms](https://github.com/vercel/ms)
+1. 🗣 Commented on [#343](https://github.com/moleculerjs/moleculer-web/issues/343#issuecomment-1859149813) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
+2. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1858811661) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+3. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1858799282) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+4. 🚀 Published release [v1.2.1](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.2.1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. ❗ Opened issue [#7415](https://github.com/pnpm/pnpm/issues/7415) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
  <!--END_SECTION:activity-->
 
 </details>
