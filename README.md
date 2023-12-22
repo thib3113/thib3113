@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1860827327) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-2. 🗣 Commented on [#343](https://github.com/moleculerjs/moleculer-web/issues/343#issuecomment-1859154306) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
-3. 🗣 Commented on [#343](https://github.com/moleculerjs/moleculer-web/issues/343#issuecomment-1859149813) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
-4. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1858811661) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-5. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1858799282) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+1. 🎉 Merged PR [#681](https://github.com/thib3113/unifi-client/pull/681) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🎉 Merged PR [#265](https://github.com/thib3113/vban/pull/265) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1860827327) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+4. 🗣 Commented on [#343](https://github.com/moleculerjs/moleculer-web/issues/343#issuecomment-1859154306) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
+5. 🗣 Commented on [#343](https://github.com/moleculerjs/moleculer-web/issues/343#issuecomment-1859149813) in [moleculerjs/moleculer-web](https://github.com/moleculerjs/moleculer-web)
  <!--END_SECTION:activity-->
 
 </details>
