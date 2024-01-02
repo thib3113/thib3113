@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [try publish](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v0.9.1) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-2. 🚀 Published release [lovebox-client/v0.9.0](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v0.9.0) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-3. 🎉 Merged PR [#49](https://github.com/thib3113/node-crowdsec/pull/49) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🚀 Published release [crowdsec-client/v0.1.6](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client/v0.1.6) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🗣 Commented on [#5](https://github.com/thib3113/node-red-contrib-vban/issues/5#issuecomment-1872943992) in [thib3113/node-red-contrib-vban](https://github.com/thib3113/node-red-contrib-vban)
+1. 🚀 Published release [try publish](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v0.9.3) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+2. 🚀 Published release [try publish](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v0.9.2) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+3. 🚀 Published release [try publish](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v0.9.1) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+4. 🚀 Published release [lovebox-client/v0.9.0](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v0.9.0) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+5. 🎉 Merged PR [#49](https://github.com/thib3113/node-crowdsec/pull/49) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
