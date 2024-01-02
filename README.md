@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/thib3113/node-red-contrib-vban/issues/5#issuecomment-1872943992) in [thib3113/node-red-contrib-vban](https://github.com/thib3113/node-red-contrib-vban)
-2. 🗣 Commented on [#227](https://github.com/jens-maus/node-unifi/issues/227#issuecomment-1867427603) in [jens-maus/node-unifi](https://github.com/jens-maus/node-unifi)
-3. 🎉 Merged PR [#681](https://github.com/thib3113/unifi-client/pull/681) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🎉 Merged PR [#265](https://github.com/thib3113/vban/pull/265) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🗣 Commented on [#7415](https://github.com/pnpm/pnpm/issues/7415#issuecomment-1860827327) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+1. 🎉 Merged PR [#49](https://github.com/thib3113/node-crowdsec/pull/49) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🚀 Published release [crowdsec-client/v0.1.6](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client/v0.1.6) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🗣 Commented on [#5](https://github.com/thib3113/node-red-contrib-vban/issues/5#issuecomment-1872943992) in [thib3113/node-red-contrib-vban](https://github.com/thib3113/node-red-contrib-vban)
+4. 🗣 Commented on [#227](https://github.com/jens-maus/node-unifi/issues/227#issuecomment-1867427603) in [jens-maus/node-unifi](https://github.com/jens-maus/node-unifi)
+5. 🎉 Merged PR [#681](https://github.com/thib3113/unifi-client/pull/681) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
