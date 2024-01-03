@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#370](https://github.com/moleculerjs/moleculer-db/pull/370#issuecomment-1874635717) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
-2. 🚀 Published release [lovebox-client/v1.0.1](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.0.1) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-3. 🚀 Published release [Initial release](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.0.0) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-4. 🚀 Published release [try publish](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v0.9.4) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-5. 🚀 Published release [try publish](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v0.9.3) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+1. 🚀 Published release [lovebox-client/v1.0.2](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.0.2) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+2. 🗣 Commented on [#370](https://github.com/moleculerjs/moleculer-db/pull/370#issuecomment-1874635717) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+3. 🚀 Published release [lovebox-client/v1.0.1](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.0.1) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+4. 🚀 Published release [Initial release](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.0.0) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+5. 🚀 Published release [try publish](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v0.9.4) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
  <!--END_SECTION:activity-->
 
 </details>
