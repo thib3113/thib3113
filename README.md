@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [lovebox-client/v1.1.0](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.1.0) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-2. 💪 Opened PR [#441](https://github.com/bendotcodes/cookies/pull/441) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
-3. 🗣 Commented on [#440](https://github.com/bendotcodes/cookies/issues/440#issuecomment-1875145106) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
-4. 🚀 Published release [v1.3.0](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 🚀 Published release [lovebox-client/v1.0.2](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.0.2) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+1. 🗣 Commented on [#441](https://github.com/bendotcodes/cookies/pull/441#issuecomment-1878485365) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
+2. 🚀 Published release [lovebox-client/v1.1.0](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.1.0) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+3. 💪 Opened PR [#441](https://github.com/bendotcodes/cookies/pull/441) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
+4. 🗣 Commented on [#440](https://github.com/bendotcodes/cookies/issues/440#issuecomment-1875145106) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
+5. 🚀 Published release [v1.3.0](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
