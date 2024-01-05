@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#441](https://github.com/bendotcodes/cookies/pull/441#issuecomment-1878587587) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
-2. 🗣 Commented on [#441](https://github.com/bendotcodes/cookies/pull/441#issuecomment-1878485365) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
-3. 🚀 Published release [lovebox-client/v1.1.0](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.1.0) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-4. 💪 Opened PR [#441](https://github.com/bendotcodes/cookies/pull/441) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
-5. 🗣 Commented on [#440](https://github.com/bendotcodes/cookies/issues/440#issuecomment-1875145106) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
+1. 🗣 Commented on [#441](https://github.com/bendotcodes/cookies/pull/441#issuecomment-1878811916) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
+2. 🗣 Commented on [#441](https://github.com/bendotcodes/cookies/pull/441#issuecomment-1878587587) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
+3. 🗣 Commented on [#441](https://github.com/bendotcodes/cookies/pull/441#issuecomment-1878485365) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
+4. 🚀 Published release [lovebox-client/v1.1.0](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.1.0) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+5. 💪 Opened PR [#441](https://github.com/bendotcodes/cookies/pull/441) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
  <!--END_SECTION:activity-->
 
 </details>
