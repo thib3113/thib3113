@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#441](https://github.com/bendotcodes/cookies/pull/441#issuecomment-1878811916) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
-2. 🗣 Commented on [#441](https://github.com/bendotcodes/cookies/pull/441#issuecomment-1878587587) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
-3. 🗣 Commented on [#441](https://github.com/bendotcodes/cookies/pull/441#issuecomment-1878485365) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
-4. 🚀 Published release [lovebox-client/v1.1.0](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.1.0) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-5. 💪 Opened PR [#441](https://github.com/bendotcodes/cookies/pull/441) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
+1. ❗ Opened issue [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+2. 🎉 Merged PR [#50](https://github.com/thib3113/node-crowdsec/pull/50) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🗣 Commented on [#441](https://github.com/bendotcodes/cookies/pull/441#issuecomment-1878811916) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
+4. 🗣 Commented on [#441](https://github.com/bendotcodes/cookies/pull/441#issuecomment-1878587587) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
+5. 🗣 Commented on [#441](https://github.com/bendotcodes/cookies/pull/441#issuecomment-1878485365) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
  <!--END_SECTION:activity-->
 
 </details>
