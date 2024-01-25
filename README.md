@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#11](https://github.com/Daydreamer-riri/vite-react-ssg/issues/11) in [Daydreamer-riri/vite-react-ssg](https://github.com/Daydreamer-riri/vite-react-ssg)
-2. 🎉 Merged PR [#682](https://github.com/thib3113/unifi-client/pull/682) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. ❗ Opened issue [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
-4. 🎉 Merged PR [#50](https://github.com/thib3113/node-crowdsec/pull/50) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🗣 Commented on [#441](https://github.com/bendotcodes/cookies/pull/441#issuecomment-1878811916) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
+1. 🔒 Closed issue [#7683](https://github.com/bitwarden/clients/issues/7683) in [bitwarden/clients](https://github.com/bitwarden/clients)
+2. ❗ Opened issue [#7683](https://github.com/bitwarden/clients/issues/7683) in [bitwarden/clients](https://github.com/bitwarden/clients)
+3. ❗ Opened issue [#11](https://github.com/Daydreamer-riri/vite-react-ssg/issues/11) in [Daydreamer-riri/vite-react-ssg](https://github.com/Daydreamer-riri/vite-react-ssg)
+4. 🎉 Merged PR [#682](https://github.com/thib3113/unifi-client/pull/682) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. ❗ Opened issue [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
  <!--END_SECTION:activity-->
 
 </details>
