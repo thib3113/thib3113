@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#268](https://github.com/thib3113/vban/pull/268) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 🎉 Merged PR [#267](https://github.com/thib3113/vban/pull/267) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 💪 Opened PR [#267](https://github.com/thib3113/vban/pull/267) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🔒 Closed issue [#7683](https://github.com/bitwarden/clients/issues/7683) in [bitwarden/clients](https://github.com/bitwarden/clients)
-5. ❗ Opened issue [#7683](https://github.com/bitwarden/clients/issues/7683) in [bitwarden/clients](https://github.com/bitwarden/clients)
+1. 🗣 Commented on [#272](https://github.com/thib3113/vban/pull/272#issuecomment-1924016061) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🎉 Merged PR [#270](https://github.com/thib3113/vban/pull/270) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🔒 Closed issue [#3](https://github.com/thib3113/vban/issues/3) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🎉 Merged PR [#271](https://github.com/thib3113/vban/pull/271) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#268](https://github.com/thib3113/vban/pull/268) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
