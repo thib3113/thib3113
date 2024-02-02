@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#272](https://github.com/thib3113/vban/pull/272#issuecomment-1924016061) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 🎉 Merged PR [#270](https://github.com/thib3113/vban/pull/270) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🔒 Closed issue [#3](https://github.com/thib3113/vban/issues/3) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#271](https://github.com/thib3113/vban/pull/271) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#268](https://github.com/thib3113/vban/pull/268) in [thib3113/vban](https://github.com/thib3113/vban)
+1. ❌ Closed PR [#264](https://github.com/thib3113/vban/pull/264) in [thib3113/vban](https://github.com/thib3113/vban)
+2. ❌ Closed PR [#266](https://github.com/thib3113/vban/pull/266) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🚀 Published release [v1.2.5 - Synchronize with repo / remove useless files](https://github.com/thib3113/vban/releases/tag/v1.2.5) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🗣 Commented on [#272](https://github.com/thib3113/vban/pull/272#issuecomment-1924016061) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#270](https://github.com/thib3113/vban/pull/270) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
