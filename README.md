@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#7683](https://github.com/bitwarden/clients/issues/7683) in [bitwarden/clients](https://github.com/bitwarden/clients)
-2. ❗ Opened issue [#7683](https://github.com/bitwarden/clients/issues/7683) in [bitwarden/clients](https://github.com/bitwarden/clients)
-3. ❗ Opened issue [#11](https://github.com/Daydreamer-riri/vite-react-ssg/issues/11) in [Daydreamer-riri/vite-react-ssg](https://github.com/Daydreamer-riri/vite-react-ssg)
-4. 🎉 Merged PR [#682](https://github.com/thib3113/unifi-client/pull/682) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. ❗ Opened issue [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+1. 🎉 Merged PR [#268](https://github.com/thib3113/vban/pull/268) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🎉 Merged PR [#267](https://github.com/thib3113/vban/pull/267) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 💪 Opened PR [#267](https://github.com/thib3113/vban/pull/267) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🔒 Closed issue [#7683](https://github.com/bitwarden/clients/issues/7683) in [bitwarden/clients](https://github.com/bitwarden/clients)
+5. ❗ Opened issue [#7683](https://github.com/bitwarden/clients/issues/7683) in [bitwarden/clients](https://github.com/bitwarden/clients)
  <!--END_SECTION:activity-->
 
 </details>
