@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#264](https://github.com/thib3113/vban/pull/264) in [thib3113/vban](https://github.com/thib3113/vban)
-2. ❌ Closed PR [#266](https://github.com/thib3113/vban/pull/266) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🚀 Published release [v1.2.5 - Synchronize with repo / remove useless files](https://github.com/thib3113/vban/releases/tag/v1.2.5) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🗣 Commented on [#272](https://github.com/thib3113/vban/pull/272#issuecomment-1924016061) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#270](https://github.com/thib3113/vban/pull/270) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-1925369440) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+2. ❌ Closed PR [#264](https://github.com/thib3113/vban/pull/264) in [thib3113/vban](https://github.com/thib3113/vban)
+3. ❌ Closed PR [#266](https://github.com/thib3113/vban/pull/266) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🚀 Published release [v1.2.5 - Synchronize with repo / remove useless files](https://github.com/thib3113/vban/releases/tag/v1.2.5) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🗣 Commented on [#272](https://github.com/thib3113/vban/pull/272#issuecomment-1924016061) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
