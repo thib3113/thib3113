@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-1925409465) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
-2. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-1925401149) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
-3. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-1925396755) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
-4. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-1925393611) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
-5. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-1925369440) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+1. 🎉 Merged PR [#273](https://github.com/thib3113/vban/pull/273) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-1925409465) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+3. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-1925401149) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+4. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-1925396755) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+5. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-1925393611) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
  <!--END_SECTION:activity-->
 
 </details>
