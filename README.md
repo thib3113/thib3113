@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#275](https://github.com/thib3113/vban/pull/275) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 🎉 Merged PR [#276](https://github.com/thib3113/vban/pull/276) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🎉 Merged PR [#274](https://github.com/thib3113/vban/pull/274) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#278](https://github.com/thib3113/vban/pull/278) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#2](https://github.com/spailybot/moleculer-auto-openapi/pull/2) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. 🗣 Commented on [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38#issuecomment-1938751138) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+2. 🎉 Merged PR [#275](https://github.com/thib3113/vban/pull/275) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🎉 Merged PR [#276](https://github.com/thib3113/vban/pull/276) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🎉 Merged PR [#274](https://github.com/thib3113/vban/pull/274) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#278](https://github.com/thib3113/vban/pull/278) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
