@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38#issuecomment-1939282992) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
-2. 🗣 Commented on [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38#issuecomment-1938751138) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
-3. 🎉 Merged PR [#275](https://github.com/thib3113/vban/pull/275) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#276](https://github.com/thib3113/vban/pull/276) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#274](https://github.com/thib3113/vban/pull/274) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🎉 Merged PR [#684](https://github.com/thib3113/unifi-client/pull/684) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🗣 Commented on [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38#issuecomment-1939282992) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+3. 🗣 Commented on [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38#issuecomment-1938751138) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+4. 🎉 Merged PR [#275](https://github.com/thib3113/vban/pull/275) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#276](https://github.com/thib3113/vban/pull/276) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
