@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#282](https://github.com/thib3113/vban/pull/282) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 🎉 Merged PR [#59](https://github.com/thib3113/node-crowdsec/pull/59) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🚀 Published release [crowdsec-client/v0.1.7](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client/v0.1.7) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🎉 Merged PR [#58](https://github.com/thib3113/node-crowdsec/pull/58) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 💪 Opened PR [#58](https://github.com/thib3113/node-crowdsec/pull/58) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. 🎉 Merged PR [#283](https://github.com/thib3113/vban/pull/283) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🎉 Merged PR [#56](https://github.com/thib3113/node-crowdsec/pull/56) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🎉 Merged PR [#285](https://github.com/thib3113/vban/pull/285) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🎉 Merged PR [#284](https://github.com/thib3113/vban/pull/284) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#282](https://github.com/thib3113/vban/pull/282) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
