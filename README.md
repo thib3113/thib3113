@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#220](https://github.com/Art-of-WiFi/UniFi-API-client/issues/220#issuecomment-2007324400) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
-2. 🎉 Merged PR [#698](https://github.com/thib3113/unifi-client/pull/698) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🎉 Merged PR [#697](https://github.com/thib3113/unifi-client/pull/697) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🎉 Merged PR [#288](https://github.com/thib3113/vban/pull/288) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#289](https://github.com/thib3113/vban/pull/289) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🎉 Merged PR [#292](https://github.com/thib3113/vban/pull/292) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🎉 Merged PR [#293](https://github.com/thib3113/vban/pull/293) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🎉 Merged PR [#294](https://github.com/thib3113/vban/pull/294) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🗣 Commented on [#220](https://github.com/Art-of-WiFi/UniFi-API-client/issues/220#issuecomment-2007324400) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
+5. 🎉 Merged PR [#698](https://github.com/thib3113/unifi-client/pull/698) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
