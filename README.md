@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-2031275148) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
-2. 🎉 Merged PR [#296](https://github.com/thib3113/vban/pull/296) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🎉 Merged PR [#295](https://github.com/thib3113/vban/pull/295) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🗣 Commented on [#1950](https://github.com/caolan/async/issues/1950#issuecomment-2027229037) in [caolan/async](https://github.com/caolan/async)
-5. 🗣 Commented on [#1950](https://github.com/caolan/async/issues/1950#issuecomment-2020743616) in [caolan/async](https://github.com/caolan/async)
+1. 🎉 Merged PR [#3](https://github.com/spailybot/moleculer-auto-openapi/pull/3) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-2031275148) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
+3. 🎉 Merged PR [#296](https://github.com/thib3113/vban/pull/296) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🎉 Merged PR [#295](https://github.com/thib3113/vban/pull/295) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🗣 Commented on [#1950](https://github.com/caolan/async/issues/1950#issuecomment-2027229037) in [caolan/async](https://github.com/caolan/async)
  <!--END_SECTION:activity-->
 
 </details>
