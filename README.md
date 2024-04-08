@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#341](https://github.com/icebob/fastest-validator/pull/341#issuecomment-2041409390) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
-2. 🎉 Merged PR [#3](https://github.com/spailybot/moleculer-auto-openapi/pull/3) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-2031275148) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
-4. 🎉 Merged PR [#296](https://github.com/thib3113/vban/pull/296) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#295](https://github.com/thib3113/vban/pull/295) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🎉 Merged PR [#298](https://github.com/thib3113/vban/pull/298) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🎉 Merged PR [#297](https://github.com/thib3113/vban/pull/297) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🗣 Commented on [#341](https://github.com/icebob/fastest-validator/pull/341#issuecomment-2041409390) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+4. 🎉 Merged PR [#3](https://github.com/spailybot/moleculer-auto-openapi/pull/3) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. 🗣 Commented on [#378](https://github.com/moleculerjs/moleculer-db/issues/378#issuecomment-2031275148) in [moleculerjs/moleculer-db](https://github.com/moleculerjs/moleculer-db)
  <!--END_SECTION:activity-->
 
 </details>
