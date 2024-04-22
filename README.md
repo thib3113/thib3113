@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#301](https://github.com/thib3113/vban/pull/301) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 🎉 Merged PR [#298](https://github.com/thib3113/vban/pull/298) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🎉 Merged PR [#297](https://github.com/thib3113/vban/pull/297) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🗣 Commented on [#341](https://github.com/icebob/fastest-validator/pull/341#issuecomment-2041409390) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
-5. 🎉 Merged PR [#3](https://github.com/spailybot/moleculer-auto-openapi/pull/3) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. 🗣 Commented on [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38#issuecomment-2069283911) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+2. 🔒 Closed issue [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+3. 🎉 Merged PR [#301](https://github.com/thib3113/vban/pull/301) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🎉 Merged PR [#298](https://github.com/thib3113/vban/pull/298) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#297](https://github.com/thib3113/vban/pull/297) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
