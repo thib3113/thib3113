@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38#issuecomment-2069283911) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
-2. 🔒 Closed issue [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
-3. 🎉 Merged PR [#301](https://github.com/thib3113/vban/pull/301) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#298](https://github.com/thib3113/vban/pull/298) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#297](https://github.com/thib3113/vban/pull/297) in [thib3113/vban](https://github.com/thib3113/vban)
+1. ❗ Opened issue [#4252](https://github.com/mozilla/addons/issues/4252) in [mozilla/addons](https://github.com/mozilla/addons)
+2. 🗣 Commented on [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38#issuecomment-2069283911) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+3. 🔒 Closed issue [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+4. 🎉 Merged PR [#301](https://github.com/thib3113/vban/pull/301) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#298](https://github.com/thib3113/vban/pull/298) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
