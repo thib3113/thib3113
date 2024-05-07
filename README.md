@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#299](https://github.com/thib3113/vban/pull/299) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 🎉 Merged PR [#302](https://github.com/thib3113/vban/pull/302) in [thib3113/vban](https://github.com/thib3113/vban)
-3. ❗ Opened issue [#4252](https://github.com/mozilla/addons/issues/4252) in [mozilla/addons](https://github.com/mozilla/addons)
-4. 🗣 Commented on [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38#issuecomment-2069283911) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
-5. 🔒 Closed issue [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+1. ❗ Opened issue [#19](https://github.com/vilvaathibanpb/react-rating-tooltip/issues/19) in [vilvaathibanpb/react-rating-tooltip](https://github.com/vilvaathibanpb/react-rating-tooltip)
+2. 🎉 Merged PR [#299](https://github.com/thib3113/vban/pull/299) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🎉 Merged PR [#302](https://github.com/thib3113/vban/pull/302) in [thib3113/vban](https://github.com/thib3113/vban)
+4. ❗ Opened issue [#4252](https://github.com/mozilla/addons/issues/4252) in [mozilla/addons](https://github.com/mozilla/addons)
+5. 🗣 Commented on [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38#issuecomment-2069283911) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
  <!--END_SECTION:activity-->
 
 </details>
