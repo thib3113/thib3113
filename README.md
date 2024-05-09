@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#19](https://github.com/vilvaathibanpb/react-rating-tooltip/issues/19) in [vilvaathibanpb/react-rating-tooltip](https://github.com/vilvaathibanpb/react-rating-tooltip)
-2. 🎉 Merged PR [#299](https://github.com/thib3113/vban/pull/299) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🎉 Merged PR [#302](https://github.com/thib3113/vban/pull/302) in [thib3113/vban](https://github.com/thib3113/vban)
-4. ❗ Opened issue [#4252](https://github.com/mozilla/addons/issues/4252) in [mozilla/addons](https://github.com/mozilla/addons)
-5. 🗣 Commented on [#38](https://github.com/AmauryD/fastest-validator-decorators/issues/38#issuecomment-2069283911) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+1. 🚀 Published release [v1.3.1](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. 🎉 Merged PR [#4](https://github.com/spailybot/moleculer-auto-openapi/pull/4) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+3. 💪 Opened PR [#4](https://github.com/spailybot/moleculer-auto-openapi/pull/4) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4. ❗ Opened issue [#19](https://github.com/vilvaathibanpb/react-rating-tooltip/issues/19) in [vilvaathibanpb/react-rating-tooltip](https://github.com/vilvaathibanpb/react-rating-tooltip)
+5. 🎉 Merged PR [#299](https://github.com/thib3113/vban/pull/299) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
