@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [lovebox-client/v1.1.2](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.1.2) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-2. 🎉 Merged PR [#303](https://github.com/thib3113/vban/pull/303) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🚀 Published release [v1.3.1](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-4. 🎉 Merged PR [#4](https://github.com/spailybot/moleculer-auto-openapi/pull/4) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 💪 Opened PR [#4](https://github.com/spailybot/moleculer-auto-openapi/pull/4) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. 🚀 Published release [@thib3113/node-red-lovebox/v1.0.2](https://github.com/thib3113/node-lovebox/releases/tag/%40thib3113/node-red-lovebox/v1.0.2) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+2. 🚀 Published release [lovebox-client/v1.1.3](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.1.3) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+3. 🚀 Published release [lovebox-client/v1.1.2](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.1.2) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+4. 🎉 Merged PR [#303](https://github.com/thib3113/vban/pull/303) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🚀 Published release [v1.3.1](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
