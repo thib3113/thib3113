@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [fixes](https://github.com/thib3113/node-red-contrib-unifi-client/releases/tag/v0.0.6) in [thib3113/node-red-contrib-unifi-client](https://github.com/thib3113/node-red-contrib-unifi-client)
-2. 🚀 Published release [v0.0.5](https://github.com/thib3113/node-red-contrib-unifi-client/releases/tag/v0.0.5) in [thib3113/node-red-contrib-unifi-client](https://github.com/thib3113/node-red-contrib-unifi-client)
-3. 🚀 Published release [@thib3113/node-red-lovebox/v1.0.2](https://github.com/thib3113/node-lovebox/releases/tag/%40thib3113/node-red-lovebox/v1.0.2) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-4. 🚀 Published release [lovebox-client/v1.1.3](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.1.3) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-5. 🚀 Published release [lovebox-client/v1.1.2](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.1.2) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+1. ❗ Opened issue [#90](https://github.com/rajnandan1/kener/issues/90) in [rajnandan1/kener](https://github.com/rajnandan1/kener)
+2. 🚀 Published release [fixes](https://github.com/thib3113/node-red-contrib-unifi-client/releases/tag/v0.0.6) in [thib3113/node-red-contrib-unifi-client](https://github.com/thib3113/node-red-contrib-unifi-client)
+3. 🚀 Published release [v0.0.5](https://github.com/thib3113/node-red-contrib-unifi-client/releases/tag/v0.0.5) in [thib3113/node-red-contrib-unifi-client](https://github.com/thib3113/node-red-contrib-unifi-client)
+4. 🚀 Published release [@thib3113/node-red-lovebox/v1.0.2](https://github.com/thib3113/node-lovebox/releases/tag/%40thib3113/node-red-lovebox/v1.0.2) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+5. 🚀 Published release [lovebox-client/v1.1.3](https://github.com/thib3113/node-lovebox/releases/tag/lovebox-client/v1.1.3) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
  <!--END_SECTION:activity-->
 
 </details>
