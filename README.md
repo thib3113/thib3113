@@ -38,3 +38,6 @@ I'm a backend developper
 </details>
 
 ![Thib3113's github metrics](https://gist.githubusercontent.com/thib3113/83a96e16f8bca103f1b0e376186c66ec/raw/github-metrics.svg)
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover !important; width: 130vw; opacity: 0.1; background: url('https://raw.githubusercontent.com/thib3113/thib3113/main/assets/bg.gif');]{x0000}$}
