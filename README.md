@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#703](https://github.com/thib3113/unifi-client/pull/703) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🎉 Merged PR [#702](https://github.com/thib3113/unifi-client/pull/702) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. ❗ Opened issue [#90](https://github.com/rajnandan1/kener/issues/90) in [rajnandan1/kener](https://github.com/rajnandan1/kener)
-4. 🚀 Published release [fixes](https://github.com/thib3113/node-red-contrib-unifi-client/releases/tag/v0.0.6) in [thib3113/node-red-contrib-unifi-client](https://github.com/thib3113/node-red-contrib-unifi-client)
-5. 🚀 Published release [v0.0.5](https://github.com/thib3113/node-red-contrib-unifi-client/releases/tag/v0.0.5) in [thib3113/node-red-contrib-unifi-client](https://github.com/thib3113/node-red-contrib-unifi-client)
+1. ❗ Opened issue [#866](https://github.com/babybuddy/babybuddy/issues/866) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
+2. 🎉 Merged PR [#703](https://github.com/thib3113/unifi-client/pull/703) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 🎉 Merged PR [#702](https://github.com/thib3113/unifi-client/pull/702) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. ❗ Opened issue [#90](https://github.com/rajnandan1/kener/issues/90) in [rajnandan1/kener](https://github.com/rajnandan1/kener)
+5. 🚀 Published release [fixes](https://github.com/thib3113/node-red-contrib-unifi-client/releases/tag/v0.0.6) in [thib3113/node-red-contrib-unifi-client](https://github.com/thib3113/node-red-contrib-unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
