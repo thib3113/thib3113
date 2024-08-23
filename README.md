@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#76](https://github.com/crazy-max/docker-msmtpd/pull/76) in [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd)
-2. 🗣 Commented on [#31](https://github.com/crazy-max/docker-msmtpd/issues/31#issuecomment-2304335728) in [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd)
-3. ❗ Opened issue [#866](https://github.com/babybuddy/babybuddy/issues/866) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
-4. 🎉 Merged PR [#703](https://github.com/thib3113/unifi-client/pull/703) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🎉 Merged PR [#702](https://github.com/thib3113/unifi-client/pull/702) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 💪 Opened PR [#867](https://github.com/babybuddy/babybuddy/pull/867) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
+2. 💪 Opened PR [#76](https://github.com/crazy-max/docker-msmtpd/pull/76) in [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd)
+3. 🗣 Commented on [#31](https://github.com/crazy-max/docker-msmtpd/issues/31#issuecomment-2304335728) in [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd)
+4. ❗ Opened issue [#866](https://github.com/babybuddy/babybuddy/issues/866) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
+5. 🎉 Merged PR [#703](https://github.com/thib3113/unifi-client/pull/703) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
