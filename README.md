@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#867](https://github.com/babybuddy/babybuddy/pull/867) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
-2. 💪 Opened PR [#76](https://github.com/crazy-max/docker-msmtpd/pull/76) in [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd)
-3. 🗣 Commented on [#31](https://github.com/crazy-max/docker-msmtpd/issues/31#issuecomment-2304335728) in [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd)
-4. ❗ Opened issue [#866](https://github.com/babybuddy/babybuddy/issues/866) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
-5. 🎉 Merged PR [#703](https://github.com/thib3113/unifi-client/pull/703) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🗣 Commented on [#451](https://github.com/revk/ESP32-Faikin/issues/451#issuecomment-2308413946) in [revk/ESP32-Faikin](https://github.com/revk/ESP32-Faikin)
+2. 🗣 Commented on [#451](https://github.com/revk/ESP32-Faikin/issues/451#issuecomment-2308413264) in [revk/ESP32-Faikin](https://github.com/revk/ESP32-Faikin)
+3. 🗣 Commented on [#452](https://github.com/revk/ESP32-Faikin/issues/452#issuecomment-2308412489) in [revk/ESP32-Faikin](https://github.com/revk/ESP32-Faikin)
+4. 🗣 Commented on [#451](https://github.com/revk/ESP32-Faikin/issues/451#issuecomment-2308411696) in [revk/ESP32-Faikin](https://github.com/revk/ESP32-Faikin)
+5. ❗ Opened issue [#452](https://github.com/revk/ESP32-Faikin/issues/452) in [revk/ESP32-Faikin](https://github.com/revk/ESP32-Faikin)
  <!--END_SECTION:activity-->
 
 </details>
