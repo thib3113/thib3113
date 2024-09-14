@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#42](https://github.com/AmauryD/fastest-validator-decorators/issues/42#issuecomment-2344715757) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
-2. 🗣 Commented on [#76](https://github.com/crazy-max/docker-msmtpd/pull/76#issuecomment-2324567966) in [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd)
-3. 🔒 Closed issue [#344](https://github.com/icebob/fastest-validator/issues/344) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
-4. 🗣 Commented on [#344](https://github.com/icebob/fastest-validator/issues/344#issuecomment-2324538264) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
-5. 🗣 Commented on [#42](https://github.com/AmauryD/fastest-validator-decorators/issues/42#issuecomment-2315126375) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+1. 🗣 Commented on [#124](https://github.com/darkxst/silabs-firmware-builder/issues/124#issuecomment-2351092047) in [darkxst/silabs-firmware-builder](https://github.com/darkxst/silabs-firmware-builder)
+2. 🗣 Commented on [#42](https://github.com/AmauryD/fastest-validator-decorators/issues/42#issuecomment-2344715757) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+3. 🗣 Commented on [#76](https://github.com/crazy-max/docker-msmtpd/pull/76#issuecomment-2324567966) in [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd)
+4. 🔒 Closed issue [#344](https://github.com/icebob/fastest-validator/issues/344) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+5. 🗣 Commented on [#344](https://github.com/icebob/fastest-validator/issues/344#issuecomment-2324538264) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
  <!--END_SECTION:activity-->
 
 </details>
