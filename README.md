@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#124](https://github.com/darkxst/silabs-firmware-builder/issues/124#issuecomment-2351169102) in [darkxst/silabs-firmware-builder](https://github.com/darkxst/silabs-firmware-builder)
-2. 🗣 Commented on [#124](https://github.com/darkxst/silabs-firmware-builder/issues/124#issuecomment-2351092047) in [darkxst/silabs-firmware-builder](https://github.com/darkxst/silabs-firmware-builder)
-3. 🗣 Commented on [#42](https://github.com/AmauryD/fastest-validator-decorators/issues/42#issuecomment-2344715757) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
-4. 🗣 Commented on [#76](https://github.com/crazy-max/docker-msmtpd/pull/76#issuecomment-2324567966) in [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd)
-5. 🔒 Closed issue [#344](https://github.com/icebob/fastest-validator/issues/344) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+1. ❗ Opened issue [#60](https://github.com/thib3113/node-crowdsec/issues/60) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🗣 Commented on [#124](https://github.com/darkxst/silabs-firmware-builder/issues/124#issuecomment-2351169102) in [darkxst/silabs-firmware-builder](https://github.com/darkxst/silabs-firmware-builder)
+3. 🗣 Commented on [#124](https://github.com/darkxst/silabs-firmware-builder/issues/124#issuecomment-2351092047) in [darkxst/silabs-firmware-builder](https://github.com/darkxst/silabs-firmware-builder)
+4. 🗣 Commented on [#42](https://github.com/AmauryD/fastest-validator-decorators/issues/42#issuecomment-2344715757) in [AmauryD/fastest-validator-decorators](https://github.com/AmauryD/fastest-validator-decorators)
+5. 🗣 Commented on [#76](https://github.com/crazy-max/docker-msmtpd/pull/76#issuecomment-2324567966) in [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd)
  <!--END_SECTION:activity-->
 
 </details>
