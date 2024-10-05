@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2](https://github.com/xbb/parsedmarc-docker/pull/2) in [xbb/parsedmarc-docker](https://github.com/xbb/parsedmarc-docker)
-2. 💪 Opened PR [#2](https://github.com/xbb/parsedmarc-docker/pull/2) in [xbb/parsedmarc-docker](https://github.com/xbb/parsedmarc-docker)
-3. ❗ Opened issue [#60](https://github.com/thib3113/node-crowdsec/issues/60) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🗣 Commented on [#124](https://github.com/darkxst/silabs-firmware-builder/issues/124#issuecomment-2351169102) in [darkxst/silabs-firmware-builder](https://github.com/darkxst/silabs-firmware-builder)
-5. 🗣 Commented on [#124](https://github.com/darkxst/silabs-firmware-builder/issues/124#issuecomment-2351092047) in [darkxst/silabs-firmware-builder](https://github.com/darkxst/silabs-firmware-builder)
+1. 🎉 Merged PR [#3](https://github.com/thib3113/parsedmarc-docker/pull/3) in [thib3113/parsedmarc-docker](https://github.com/thib3113/parsedmarc-docker)
+2. 🎉 Merged PR [#1](https://github.com/thib3113/parsedmarc-docker/pull/1) in [thib3113/parsedmarc-docker](https://github.com/thib3113/parsedmarc-docker)
+3. ❌ Closed PR [#2](https://github.com/xbb/parsedmarc-docker/pull/2) in [xbb/parsedmarc-docker](https://github.com/xbb/parsedmarc-docker)
+4. 💪 Opened PR [#2](https://github.com/xbb/parsedmarc-docker/pull/2) in [xbb/parsedmarc-docker](https://github.com/xbb/parsedmarc-docker)
+5. ❗ Opened issue [#60](https://github.com/thib3113/node-crowdsec/issues/60) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
