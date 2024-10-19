@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#68](https://github.com/thib3113/node-crowdsec/pull/68) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 🎉 Merged PR [#8](https://github.com/thib3113/parsedmarc-docker/pull/8) in [thib3113/parsedmarc-docker](https://github.com/thib3113/parsedmarc-docker)
-3. 🎉 Merged PR [#9](https://github.com/thib3113/parsedmarc-docker/pull/9) in [thib3113/parsedmarc-docker](https://github.com/thib3113/parsedmarc-docker)
-4. 🎉 Merged PR [#10](https://github.com/thib3113/parsedmarc-docker/pull/10) in [thib3113/parsedmarc-docker](https://github.com/thib3113/parsedmarc-docker)
-5. 🎉 Merged PR [#1](https://github.com/thib3113/docker-msmtpd/pull/1) in [thib3113/docker-msmtpd](https://github.com/thib3113/docker-msmtpd)
+1. 🚀 Published release [crowdsec-client/v1.0.0](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client/v1.0.0) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🔒 Closed issue [#60](https://github.com/thib3113/node-crowdsec/issues/60) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🎉 Merged PR [#68](https://github.com/thib3113/node-crowdsec/pull/68) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 💪 Opened PR [#68](https://github.com/thib3113/node-crowdsec/pull/68) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🎉 Merged PR [#8](https://github.com/thib3113/parsedmarc-docker/pull/8) in [thib3113/parsedmarc-docker](https://github.com/thib3113/parsedmarc-docker)
  <!--END_SECTION:activity-->
 
 </details>
