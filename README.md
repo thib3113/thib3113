@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/thib3113/nut/pull/2) in [thib3113/nut](https://github.com/thib3113/nut)
-2. 🎉 Merged PR [#709](https://github.com/thib3113/unifi-client/pull/709) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🚀 Published release [crowdsec-client/v1.0.0](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client/v1.0.0) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🔒 Closed issue [#60](https://github.com/thib3113/node-crowdsec/issues/60) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🎉 Merged PR [#68](https://github.com/thib3113/node-crowdsec/pull/68) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. 🎉 Merged PR [#9](https://github.com/thib3113/nut/pull/9) in [thib3113/nut](https://github.com/thib3113/nut)
+2. 🎉 Merged PR [#11](https://github.com/thib3113/nut/pull/11) in [thib3113/nut](https://github.com/thib3113/nut)
+3. 🎉 Merged PR [#2](https://github.com/thib3113/nut/pull/2) in [thib3113/nut](https://github.com/thib3113/nut)
+4. 🎉 Merged PR [#709](https://github.com/thib3113/unifi-client/pull/709) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 🚀 Published release [crowdsec-client/v1.0.0](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client/v1.0.0) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
