@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#15](https://github.com/thib3113/nut/pull/15) in [thib3113/nut](https://github.com/thib3113/nut)
-2. 🎉 Merged PR [#4](https://github.com/thib3113/nut/pull/4) in [thib3113/nut](https://github.com/thib3113/nut)
-3. 🎉 Merged PR [#8](https://github.com/thib3113/nut/pull/8) in [thib3113/nut](https://github.com/thib3113/nut)
-4. 🎉 Merged PR [#9](https://github.com/thib3113/nut/pull/9) in [thib3113/nut](https://github.com/thib3113/nut)
-5. 🎉 Merged PR [#11](https://github.com/thib3113/nut/pull/11) in [thib3113/nut](https://github.com/thib3113/nut)
+1. 🚀 Published release [First automated release](https://github.com/thib3113/nut/releases/tag/v0.0.7) in [thib3113/nut](https://github.com/thib3113/nut)
+2. 🚀 Published release [First automated release](https://github.com/thib3113/nut/releases/tag/v0.0.6) in [thib3113/nut](https://github.com/thib3113/nut)
+3. 🚀 Published release [First automated release](https://github.com/thib3113/nut/releases/tag/v0.0.5) in [thib3113/nut](https://github.com/thib3113/nut)
+4. 🚀 Published release [0.0.4 - First automated release](https://github.com/thib3113/nut/releases/tag/v0.0.4) in [thib3113/nut](https://github.com/thib3113/nut)
+5. 🚀 Published release [0.0.3 - First automated release](https://github.com/thib3113/nut/releases/tag/v0.0.3) in [thib3113/nut](https://github.com/thib3113/nut)
  <!--END_SECTION:activity-->
 
 </details>
