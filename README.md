@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#890](https://github.com/babybuddy/babybuddy/issues/890#issuecomment-2440023625) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
-2. 🚀 Published release [Sign release](https://github.com/thib3113/nut/releases/tag/v0.0.8) in [thib3113/nut](https://github.com/thib3113/nut)
-3. ❗ Opened issue [#890](https://github.com/babybuddy/babybuddy/issues/890) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
-4. 🗣 Commented on [#174](https://github.com/babybuddy/babybuddy/issues/174#issuecomment-2439808177) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
-5. 🚀 Published release [First automated release](https://github.com/thib3113/nut/releases/tag/v0.0.7) in [thib3113/nut](https://github.com/thib3113/nut)
+1. 🚀 Published release [crowdsec-http-middleware/v0.0.8](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.8) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🗣 Commented on [#890](https://github.com/babybuddy/babybuddy/issues/890#issuecomment-2440023625) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
+3. 🚀 Published release [Sign release](https://github.com/thib3113/nut/releases/tag/v0.0.8) in [thib3113/nut](https://github.com/thib3113/nut)
+4. ❗ Opened issue [#890](https://github.com/babybuddy/babybuddy/issues/890) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
+5. 🗣 Commented on [#174](https://github.com/babybuddy/babybuddy/issues/174#issuecomment-2439808177) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
  <!--END_SECTION:activity-->
 
 </details>
