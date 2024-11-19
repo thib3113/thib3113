@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#733](https://github.com/bendotcodes/cookies/issues/733) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
-2. 🗣 Commented on [#890](https://github.com/babybuddy/babybuddy/issues/890#issuecomment-2442127031) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
-3. 🚀 Published release [crowdsec-http-middleware/v0.0.8](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.8) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🗣 Commented on [#890](https://github.com/babybuddy/babybuddy/issues/890#issuecomment-2440023625) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
-5. 🚀 Published release [Sign release](https://github.com/thib3113/nut/releases/tag/v0.0.8) in [thib3113/nut](https://github.com/thib3113/nut)
+1. 🎉 Merged PR [#9](https://github.com/spailybot/moleculer-auto-openapi/pull/9) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. ❗ Opened issue [#733](https://github.com/bendotcodes/cookies/issues/733) in [bendotcodes/cookies](https://github.com/bendotcodes/cookies)
+3. 🗣 Commented on [#890](https://github.com/babybuddy/babybuddy/issues/890#issuecomment-2442127031) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
+4. 🚀 Published release [crowdsec-http-middleware/v0.0.8](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.0.8) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🗣 Commented on [#890](https://github.com/babybuddy/babybuddy/issues/890#issuecomment-2440023625) in [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
  <!--END_SECTION:activity-->
 
 </details>
