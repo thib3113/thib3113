@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7](https://github.com/spailybot/moleculer-auto-openapi/pull/7#issuecomment-2584395787) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-2. 🎉 Merged PR [#8](https://github.com/spailybot/moleculer-auto-openapi/pull/8) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3. 🎉 Merged PR [#5](https://github.com/spailybot/moleculer-auto-openapi/pull/5) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-4. 🎉 Merged PR [#70](https://github.com/thib3113/node-crowdsec/pull/70) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🎉 Merged PR [#69](https://github.com/thib3113/node-crowdsec/pull/69) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. 🎉 Merged PR [#10](https://github.com/spailybot/moleculer-auto-openapi/pull/10) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. 🎉 Merged PR [#7](https://github.com/spailybot/moleculer-auto-openapi/pull/7) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+3. 🎉 Merged PR [#16](https://github.com/spailybot/moleculer-auto-openapi/pull/16) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4. 🎉 Merged PR [#11](https://github.com/spailybot/moleculer-auto-openapi/pull/11) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. 🗣 Commented on [#7](https://github.com/spailybot/moleculer-auto-openapi/pull/7#issuecomment-2584395787) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
