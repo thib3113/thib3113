@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#711](https://github.com/thib3113/unifi-client/issues/711#issuecomment-2597017955) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🗣 Commented on [#711](https://github.com/thib3113/unifi-client/issues/711#issuecomment-2588324296) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🚀 Published release [Some little fixes](https://github.com/thib3113/nut/releases/tag/v0.0.9) in [thib3113/nut](https://github.com/thib3113/nut)
-4. 🎉 Merged PR [#18](https://github.com/spailybot/moleculer-auto-openapi/pull/18) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 🎉 Merged PR [#12](https://github.com/spailybot/moleculer-auto-openapi/pull/12) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. 🗣 Commented on [#2](https://github.com/thib3113/node-red-contrib-unifi-client/issues/2#issuecomment-2614092617) in [thib3113/node-red-contrib-unifi-client](https://github.com/thib3113/node-red-contrib-unifi-client)
+2. 🗣 Commented on [#711](https://github.com/thib3113/unifi-client/issues/711#issuecomment-2597017955) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 🗣 Commented on [#711](https://github.com/thib3113/unifi-client/issues/711#issuecomment-2588324296) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+4. 🚀 Published release [Some little fixes](https://github.com/thib3113/nut/releases/tag/v0.0.9) in [thib3113/nut](https://github.com/thib3113/nut)
+5. 🎉 Merged PR [#18](https://github.com/spailybot/moleculer-auto-openapi/pull/18) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
