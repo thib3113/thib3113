@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#71](https://github.com/thib3113/node-crowdsec/pull/71) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 🗣 Commented on [#2](https://github.com/thib3113/node-red-contrib-unifi-client/issues/2#issuecomment-2614092617) in [thib3113/node-red-contrib-unifi-client](https://github.com/thib3113/node-red-contrib-unifi-client)
-3. 🗣 Commented on [#711](https://github.com/thib3113/unifi-client/issues/711#issuecomment-2597017955) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🗣 Commented on [#711](https://github.com/thib3113/unifi-client/issues/711#issuecomment-2588324296) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🚀 Published release [Some little fixes](https://github.com/thib3113/nut/releases/tag/v0.0.9) in [thib3113/nut](https://github.com/thib3113/nut)
+1. 🎉 Merged PR [#695](https://github.com/thib3113/unifi-client/pull/695) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+2. 🎉 Merged PR [#71](https://github.com/thib3113/node-crowdsec/pull/71) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🗣 Commented on [#2](https://github.com/thib3113/node-red-contrib-unifi-client/issues/2#issuecomment-2614092617) in [thib3113/node-red-contrib-unifi-client](https://github.com/thib3113/node-red-contrib-unifi-client)
+4. 🗣 Commented on [#711](https://github.com/thib3113/unifi-client/issues/711#issuecomment-2597017955) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 🗣 Commented on [#711](https://github.com/thib3113/unifi-client/issues/711#issuecomment-2588324296) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
