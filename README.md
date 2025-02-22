@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#724](https://github.com/thib3113/unifi-client/pull/724) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🎉 Merged PR [#725](https://github.com/thib3113/unifi-client/pull/725) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🗣 Commented on [#711](https://github.com/thib3113/unifi-client/issues/711#issuecomment-2646424581) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-4. 🚀 Published release [v0.11.1](https://github.com/thib3113/unifi-client/releases/tag/v0.11.1) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-5. 🎉 Merged PR [#723](https://github.com/thib3113/unifi-client/pull/723) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+1. 🎉 Merged PR [#376](https://github.com/thib3113/unifi-blockips-srv/pull/376) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+2. 🚀 Published release [v1.6.0 - crowdsec](https://github.com/thib3113/unifi-blockips-srv/releases/tag/v1.6.0) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+3. 🎉 Merged PR [#375](https://github.com/thib3113/unifi-blockips-srv/pull/375) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+4. 🎉 Merged PR [#373](https://github.com/thib3113/unifi-blockips-srv/pull/373) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+5. 🎉 Merged PR [#724](https://github.com/thib3113/unifi-client/pull/724) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
  <!--END_SECTION:activity-->
 
 </details>
