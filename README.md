@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#727](https://github.com/thib3113/unifi-client/pull/727) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-2. 🎉 Merged PR [#308](https://github.com/thib3113/vban/pull/308) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🎉 Merged PR [#377](https://github.com/thib3113/unifi-blockips-srv/pull/377) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-4. 🎉 Merged PR [#376](https://github.com/thib3113/unifi-blockips-srv/pull/376) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-5. 🚀 Published release [v1.6.0 - crowdsec](https://github.com/thib3113/unifi-blockips-srv/releases/tag/v1.6.0) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+1. 🗣 Commented on [#329](https://github.com/thib3113/vban/pull/329#issuecomment-2727601367) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🎉 Merged PR [#727](https://github.com/thib3113/unifi-client/pull/727) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+3. 🎉 Merged PR [#308](https://github.com/thib3113/vban/pull/308) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🎉 Merged PR [#377](https://github.com/thib3113/unifi-blockips-srv/pull/377) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+5. 🎉 Merged PR [#376](https://github.com/thib3113/unifi-blockips-srv/pull/376) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
  <!--END_SECTION:activity-->
 
 </details>
