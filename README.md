@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.3.0](https://github.com/thib3113/vban/releases/tag/v1.3.0) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 🎉 Merged PR [#336](https://github.com/thib3113/vban/pull/336) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🎉 Merged PR [#331](https://github.com/thib3113/vban/pull/331) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#334](https://github.com/thib3113/vban/pull/334) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#335](https://github.com/thib3113/vban/pull/335) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 💪 Opened PR [#337](https://github.com/thib3113/vban/pull/337) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🚀 Published release [v1.3.0](https://github.com/thib3113/vban/releases/tag/v1.3.0) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🎉 Merged PR [#336](https://github.com/thib3113/vban/pull/336) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🎉 Merged PR [#331](https://github.com/thib3113/vban/pull/331) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🎉 Merged PR [#334](https://github.com/thib3113/vban/pull/334) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
