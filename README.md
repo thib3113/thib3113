@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [new build test](https://github.com/thib3113/vban/releases/tag/v1.3.14) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 🚀 Published release [new build test](https://github.com/thib3113/vban/releases/tag/v1.3.13) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🚀 Published release [new build test](https://github.com/thib3113/vban/releases/tag/v1.3.12) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🚀 Published release [new build test](https://github.com/thib3113/vban/releases/tag/v1.3.11) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🚀 Published release [new build system test](https://github.com/thib3113/vban/releases/tag/v1.3.9) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🎉 Merged PR [#345](https://github.com/thib3113/vban/pull/345) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🚀 Published release [v1.4.0 - new build system](https://github.com/thib3113/vban/releases/tag/v1.4.0) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🚀 Published release [new build test](https://github.com/thib3113/vban/releases/tag/v1.3.14) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🚀 Published release [new build test](https://github.com/thib3113/vban/releases/tag/v1.3.13) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🚀 Published release [new build test](https://github.com/thib3113/vban/releases/tag/v1.3.12) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
