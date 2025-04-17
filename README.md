@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.3.2](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.2) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-2. 🗣 Commented on [#20](https://github.com/spailybot/moleculer-auto-openapi/pull/20#issuecomment-2810250251) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3. 🗣 Commented on [#259](https://github.com/Art-of-WiFi/UniFi-API-client/issues/259#issuecomment-2795118134) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
-4. 🎉 Merged PR [#353](https://github.com/thib3113/vban/pull/353) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#352](https://github.com/thib3113/vban/pull/352) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🎉 Merged PR [#22](https://github.com/spailybot/moleculer-auto-openapi/pull/22) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. 🚀 Published release [v1.3.2](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.2) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+3. 🗣 Commented on [#20](https://github.com/spailybot/moleculer-auto-openapi/pull/20#issuecomment-2810250251) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4. 🗣 Commented on [#259](https://github.com/Art-of-WiFi/UniFi-API-client/issues/259#issuecomment-2795118134) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
+5. 🎉 Merged PR [#353](https://github.com/thib3113/vban/pull/353) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
