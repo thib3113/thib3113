@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/thib3113/node-lovebox/pull/2) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-2. 🎉 Merged PR [#22](https://github.com/spailybot/moleculer-auto-openapi/pull/22) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3. 🚀 Published release [v1.3.2](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.2) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-4. 🗣 Commented on [#20](https://github.com/spailybot/moleculer-auto-openapi/pull/20#issuecomment-2810250251) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 🗣 Commented on [#259](https://github.com/Art-of-WiFi/UniFi-API-client/issues/259#issuecomment-2795118134) in [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client)
+1. 🎉 Merged PR [#361](https://github.com/thib3113/vban/pull/361) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🎉 Merged PR [#3](https://github.com/thib3113/node-lovebox/pull/3) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+3. 🎉 Merged PR [#2](https://github.com/thib3113/node-lovebox/pull/2) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+4. 🎉 Merged PR [#22](https://github.com/spailybot/moleculer-auto-openapi/pull/22) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. 🚀 Published release [v1.3.2](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.2) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
