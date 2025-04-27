@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#364](https://github.com/thib3113/vban/pull/364) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 🎉 Merged PR [#361](https://github.com/thib3113/vban/pull/361) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🎉 Merged PR [#3](https://github.com/thib3113/node-lovebox/pull/3) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-4. 🎉 Merged PR [#2](https://github.com/thib3113/node-lovebox/pull/2) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-5. 🎉 Merged PR [#22](https://github.com/spailybot/moleculer-auto-openapi/pull/22) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. 🗣 Commented on [#379](https://github.com/thib3113/unifi-blockips-srv/issues/379#issuecomment-2832634604) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+2. 🎉 Merged PR [#364](https://github.com/thib3113/vban/pull/364) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🎉 Merged PR [#361](https://github.com/thib3113/vban/pull/361) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🎉 Merged PR [#3](https://github.com/thib3113/node-lovebox/pull/3) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
+5. 🎉 Merged PR [#2](https://github.com/thib3113/node-lovebox/pull/2) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
  <!--END_SECTION:activity-->
 
 </details>
