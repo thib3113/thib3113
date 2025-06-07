@@ -28,8 +28,8 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#379](https://github.com/thib3113/unifi-blockips-srv/issues/379#issuecomment-2902514126) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-2. 🗣 Commented on [#379](https://github.com/thib3113/unifi-blockips-srv/issues/379#issuecomment-2834422159) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+1. 🗣 Commented on [#142473](https://github.com/home-assistant/core/issues/142473#issuecomment-2952717159) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#379](https://github.com/thib3113/unifi-blockips-srv/issues/379#issuecomment-2902514126) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
 3. 🗣 Commented on [#379](https://github.com/thib3113/unifi-blockips-srv/issues/379#issuecomment-2833440830) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
 4. 🗣 Commented on [#379](https://github.com/thib3113/unifi-blockips-srv/issues/379#issuecomment-2833348846) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
 5. 🗣 Commented on [#379](https://github.com/thib3113/unifi-blockips-srv/issues/379#issuecomment-2832634604) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
