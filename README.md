@@ -28,9 +28,9 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2293](https://github.com/Hypfer/Valetudo/issues/2293) in [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo)
-2. 🗣 Commented on [#142473](https://github.com/home-assistant/core/issues/142473#issuecomment-2952717159) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 🗣 Commented on [#379](https://github.com/thib3113/unifi-blockips-srv/issues/379#issuecomment-2833440830) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+1. 🎉 Merged PR [#386](https://github.com/thib3113/vban/pull/386) in [thib3113/vban](https://github.com/thib3113/vban)
+2. ❗ Opened issue [#2293](https://github.com/Hypfer/Valetudo/issues/2293) in [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo)
+3. 🗣 Commented on [#142473](https://github.com/home-assistant/core/issues/142473#issuecomment-2952717159) in [home-assistant/core](https://github.com/home-assistant/core)
 4. 🗣 Commented on [#379](https://github.com/thib3113/unifi-blockips-srv/issues/379#issuecomment-2833348846) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
 5. 🗣 Commented on [#379](https://github.com/thib3113/unifi-blockips-srv/issues/379#issuecomment-2832634604) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
  <!--END_SECTION:activity-->
