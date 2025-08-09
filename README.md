@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#22](https://github.com/mundschenk-at/ha-valetudo-blueprints/pull/22#issuecomment-3079984595) in [mundschenk-at/ha-valetudo-blueprints](https://github.com/mundschenk-at/ha-valetudo-blueprints)
-2. 🎉 Merged PR [#388](https://github.com/thib3113/vban/pull/388) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🎉 Merged PR [#389](https://github.com/thib3113/vban/pull/389) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#390](https://github.com/thib3113/vban/pull/390) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🎉 Merged PR [#2](https://github.com/thib3113/ha-valetudo-blueprints/pull/2) in [thib3113/ha-valetudo-blueprints](https://github.com/thib3113/ha-valetudo-blueprints)
+1. 🗣 Commented on [#27](https://github.com/thib3113/nut/pull/27#issuecomment-3170505337) in [thib3113/nut](https://github.com/thib3113/nut)
+2. 🎉 Merged PR [#29](https://github.com/thib3113/nut/pull/29) in [thib3113/nut](https://github.com/thib3113/nut)
+3. ❌ Closed PR [#23](https://github.com/thib3113/nut/pull/23) in [thib3113/nut](https://github.com/thib3113/nut)
+4. 🗣 Commented on [#23](https://github.com/thib3113/nut/pull/23#issuecomment-3170504521) in [thib3113/nut](https://github.com/thib3113/nut)
+5. 🎉 Merged PR [#22](https://github.com/thib3113/nut/pull/22) in [thib3113/nut](https://github.com/thib3113/nut)
  <!--END_SECTION:activity-->
 
 </details>
