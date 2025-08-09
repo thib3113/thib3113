@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#27](https://github.com/thib3113/nut/pull/27#issuecomment-3170505337) in [thib3113/nut](https://github.com/thib3113/nut)
-2. 🎉 Merged PR [#29](https://github.com/thib3113/nut/pull/29) in [thib3113/nut](https://github.com/thib3113/nut)
-3. ❌ Closed PR [#23](https://github.com/thib3113/nut/pull/23) in [thib3113/nut](https://github.com/thib3113/nut)
-4. 🗣 Commented on [#23](https://github.com/thib3113/nut/pull/23#issuecomment-3170504521) in [thib3113/nut](https://github.com/thib3113/nut)
-5. 🎉 Merged PR [#22](https://github.com/thib3113/nut/pull/22) in [thib3113/nut](https://github.com/thib3113/nut)
+1. 🎉 Merged PR [#24](https://github.com/thib3113/nut/pull/24) in [thib3113/nut](https://github.com/thib3113/nut)
+2. 🎉 Merged PR [#27](https://github.com/thib3113/nut/pull/27) in [thib3113/nut](https://github.com/thib3113/nut)
+3. 🗣 Commented on [#27](https://github.com/thib3113/nut/pull/27#issuecomment-3170511932) in [thib3113/nut](https://github.com/thib3113/nut)
+4. 🗣 Commented on [#25](https://github.com/thib3113/nut/pull/25#issuecomment-3170511730) in [thib3113/nut](https://github.com/thib3113/nut)
+5. 🗣 Commented on [#24](https://github.com/thib3113/nut/pull/24#issuecomment-3170511595) in [thib3113/nut](https://github.com/thib3113/nut)
  <!--END_SECTION:activity-->
 
 </details>
