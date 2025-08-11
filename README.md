@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#33](https://github.com/thib3113/nut/pull/33) in [thib3113/nut](https://github.com/thib3113/nut)
-2. 🎉 Merged PR [#36](https://github.com/thib3113/nut/pull/36) in [thib3113/nut](https://github.com/thib3113/nut)
-3. 🎉 Merged PR [#35](https://github.com/thib3113/nut/pull/35) in [thib3113/nut](https://github.com/thib3113/nut)
-4. 🎉 Merged PR [#25](https://github.com/thib3113/nut/pull/25) in [thib3113/nut](https://github.com/thib3113/nut)
-5. 🎉 Merged PR [#32](https://github.com/thib3113/nut/pull/32) in [thib3113/nut](https://github.com/thib3113/nut)
+1. 🎉 Merged PR [#37](https://github.com/thib3113/nut/pull/37) in [thib3113/nut](https://github.com/thib3113/nut)
+2. 🎉 Merged PR [#33](https://github.com/thib3113/nut/pull/33) in [thib3113/nut](https://github.com/thib3113/nut)
+3. 🎉 Merged PR [#36](https://github.com/thib3113/nut/pull/36) in [thib3113/nut](https://github.com/thib3113/nut)
+4. 🎉 Merged PR [#35](https://github.com/thib3113/nut/pull/35) in [thib3113/nut](https://github.com/thib3113/nut)
+5. 🎉 Merged PR [#25](https://github.com/thib3113/nut/pull/25) in [thib3113/nut](https://github.com/thib3113/nut)
  <!--END_SECTION:activity-->
 
 </details>
