@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#142473](https://github.com/home-assistant/core/issues/142473#issuecomment-3261921403) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🗣 Commented on [#22](https://github.com/mundschenk-at/ha-valetudo-blueprints/pull/22#issuecomment-3234887545) in [mundschenk-at/ha-valetudo-blueprints](https://github.com/mundschenk-at/ha-valetudo-blueprints)
-3. 🎉 Merged PR [#399](https://github.com/thib3113/vban/pull/399) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#363](https://github.com/thib3113/vban/pull/363) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🗣 Commented on [#363](https://github.com/thib3113/vban/pull/363#issuecomment-3227125854) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🚀 Published release [v1.3.4](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.4) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. 🎉 Merged PR [#27](https://github.com/spailybot/moleculer-auto-openapi/pull/27) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+3. 🎉 Merged PR [#21](https://github.com/spailybot/moleculer-auto-openapi/pull/21) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4. 🗣 Commented on [#21](https://github.com/spailybot/moleculer-auto-openapi/pull/21#issuecomment-3282612463) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. 🎉 Merged PR [#26](https://github.com/spailybot/moleculer-auto-openapi/pull/26) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
