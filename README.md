@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#28](https://github.com/spailybot/moleculer-auto-openapi/pull/28#issuecomment-3340174610) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-2. 🎉 Merged PR [#743](https://github.com/thib3113/unifi-client/pull/743) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
-3. 🎉 Merged PR [#4](https://github.com/thib3113/node-lovebox/pull/4) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
-4. 🚀 Published release [v1.3.4](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.4) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 🎉 Merged PR [#27](https://github.com/spailybot/moleculer-auto-openapi/pull/27) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. 🎉 Merged PR [#28](https://github.com/spailybot/moleculer-auto-openapi/pull/28) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. 🗣 Commented on [#28](https://github.com/spailybot/moleculer-auto-openapi/pull/28#issuecomment-3342032511) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+3. 🗣 Commented on [#28](https://github.com/spailybot/moleculer-auto-openapi/pull/28#issuecomment-3340174610) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4. 🎉 Merged PR [#743](https://github.com/thib3113/unifi-client/pull/743) in [thib3113/unifi-client](https://github.com/thib3113/unifi-client)
+5. 🎉 Merged PR [#4](https://github.com/thib3113/node-lovebox/pull/4) in [thib3113/node-lovebox](https://github.com/thib3113/node-lovebox)
  <!--END_SECTION:activity-->
 
 </details>
