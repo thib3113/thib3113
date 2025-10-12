@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#412](https://github.com/thib3113/vban/pull/412) in [thib3113/vban](https://github.com/thib3113/vban)
-2. ❗ Opened issue [#1337](https://github.com/moleculerjs/moleculer/issues/1337) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
-3. 🗣 Commented on [#28](https://github.com/spailybot/moleculer-auto-openapi/pull/28#issuecomment-3364731295) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-4. 🚀 Published release [v1.3.5](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.5) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 🎉 Merged PR [#28](https://github.com/spailybot/moleculer-auto-openapi/pull/28) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. 🗣 Commented on [#413](https://github.com/thib3113/vban/issues/413#issuecomment-3393670930) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🎉 Merged PR [#412](https://github.com/thib3113/vban/pull/412) in [thib3113/vban](https://github.com/thib3113/vban)
+3. ❗ Opened issue [#1337](https://github.com/moleculerjs/moleculer/issues/1337) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+4. 🗣 Commented on [#28](https://github.com/spailybot/moleculer-auto-openapi/pull/28#issuecomment-3364731295) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. 🚀 Published release [v1.3.5](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.5) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
