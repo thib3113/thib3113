@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.5.0](https://github.com/thib3113/vban/releases/tag/v1.5.0) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 💪 Opened PR [#416](undefined) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🗣 Commented on [#413](https://github.com/thib3113/vban/issues/413#issuecomment-3396351922) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🗣 Commented on [#413](https://github.com/thib3113/vban/issues/413#issuecomment-3394060102) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🗣 Commented on [#413](https://github.com/thib3113/vban/issues/413#issuecomment-3393670930) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🗣 Commented on [#413](https://github.com/thib3113/vban/issues/413#issuecomment-3403600952) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 🚀 Published release [v1.5.1](https://github.com/thib3113/vban/releases/tag/v1.5.1) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🗣 Commented on [#393](https://github.com/thib3113/vban/pull/393#issuecomment-3403587366) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🗣 Commented on [#397](https://github.com/thib3113/vban/pull/397#issuecomment-3403586857) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🗣 Commented on [#406](https://github.com/thib3113/vban/pull/406#issuecomment-3403586489) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
