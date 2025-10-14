@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#416](https://github.com/thib3113/vban/pull/416) in [thib3113/vban](https://github.com/thib3113/vban)
-2. 🗣 Commented on [#413](https://github.com/thib3113/vban/issues/413#issuecomment-3394060102) in [thib3113/vban](https://github.com/thib3113/vban)
-3. 🗣 Commented on [#413](https://github.com/thib3113/vban/issues/413#issuecomment-3393670930) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 🎉 Merged PR [#412](https://github.com/thib3113/vban/pull/412) in [thib3113/vban](https://github.com/thib3113/vban)
-5. ❗ Opened issue [#1337](https://github.com/moleculerjs/moleculer/issues/1337) in [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer)
+1. 🚀 Published release [v1.5.0](https://github.com/thib3113/vban/releases/tag/v1.5.0) in [thib3113/vban](https://github.com/thib3113/vban)
+2. 💪 Opened PR [#416](undefined) in [thib3113/vban](https://github.com/thib3113/vban)
+3. 🗣 Commented on [#413](https://github.com/thib3113/vban/issues/413#issuecomment-3396351922) in [thib3113/vban](https://github.com/thib3113/vban)
+4. 🗣 Commented on [#413](https://github.com/thib3113/vban/issues/413#issuecomment-3394060102) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 🗣 Commented on [#413](https://github.com/thib3113/vban/issues/413#issuecomment-3393670930) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
