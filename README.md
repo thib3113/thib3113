@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5938](https://github.com/home-assistant/android/issues/5938#issuecomment-3485788908) in [home-assistant/android](https://github.com/home-assistant/android)
-2. 🔒 Closed issue [#3](https://github.com/thib3113/netbird-coredns/issues/3) in [thib3113/netbird-coredns](https://github.com/thib3113/netbird-coredns)
-3. 💪 Opened PR [#421](undefined) in [thib3113/vban](https://github.com/thib3113/vban)
-4. 💪 Opened PR [#420](undefined) in [thib3113/vban](https://github.com/thib3113/vban)
-5. 🚀 Published release [v1.5.6](https://github.com/thib3113/vban/releases/tag/v1.5.6) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🗣 Commented on [#5938](https://github.com/home-assistant/android/issues/5938#issuecomment-3486328913) in [home-assistant/android](https://github.com/home-assistant/android)
+2. 🗣 Commented on [#5938](https://github.com/home-assistant/android/issues/5938#issuecomment-3485788908) in [home-assistant/android](https://github.com/home-assistant/android)
+3. 🔒 Closed issue [#3](https://github.com/thib3113/netbird-coredns/issues/3) in [thib3113/netbird-coredns](https://github.com/thib3113/netbird-coredns)
+4. 💪 Opened PR [#421](undefined) in [thib3113/vban](https://github.com/thib3113/vban)
+5. 💪 Opened PR [#420](undefined) in [thib3113/vban](https://github.com/thib3113/vban)
  <!--END_SECTION:activity-->
 
 </details>
