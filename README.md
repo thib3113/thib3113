@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/PleasePrompto/notebooklm-mcp/issues/3#issuecomment-3568363902) in [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp)
-2. 🗣 Commented on [#29](https://github.com/spailybot/moleculer-auto-openapi/issues/29#issuecomment-3538702454) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3.  Assigned issue [#29](https://github.com/spailybot/moleculer-auto-openapi/issues/29) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-4. 🗣 Commented on [#5938](https://github.com/home-assistant/android/issues/5938#issuecomment-3486610834) in [home-assistant/android](https://github.com/home-assistant/android)
-5. 🗣 Commented on [#5938](https://github.com/home-assistant/android/issues/5938#issuecomment-3486328913) in [home-assistant/android](https://github.com/home-assistant/android)
+1. ❗ Opened issue [#4](https://github.com/PleasePrompto/notebooklm-mcp/issues/4) in [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp)
+2. 🗣 Commented on [#3](https://github.com/PleasePrompto/notebooklm-mcp/issues/3#issuecomment-3568363902) in [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp)
+3. 🗣 Commented on [#29](https://github.com/spailybot/moleculer-auto-openapi/issues/29#issuecomment-3538702454) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4.  Assigned issue [#29](https://github.com/spailybot/moleculer-auto-openapi/issues/29) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. 🗣 Commented on [#5938](https://github.com/home-assistant/android/issues/5938#issuecomment-3486610834) in [home-assistant/android](https://github.com/home-assistant/android)
  <!--END_SECTION:activity-->
 
 </details>
