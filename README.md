@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.6) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-2. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.5) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-3. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.4) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-4. 🚀 Published release [Third test release](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.3) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-5. 🚀 Published release [Second test release](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.2) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+1. 🚀 Published release [try CI](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.8) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+2. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.7) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+3. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.6) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+4. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.5) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+5. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.4) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
  <!--END_SECTION:activity-->
 
 </details>
