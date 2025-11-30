@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [First test version](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.1) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-2. 🗣 Commented on [#8570](https://github.com/home-assistant/brands/pull/8570#issuecomment-3587010780) in [home-assistant/brands](https://github.com/home-assistant/brands)
-3. 💪 Opened PR [#8570](undefined) in [home-assistant/brands](https://github.com/home-assistant/brands)
-4. ❗ Opened issue [#4](https://github.com/PleasePrompto/notebooklm-mcp/issues/4) in [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp)
-5. 🗣 Commented on [#3](https://github.com/PleasePrompto/notebooklm-mcp/issues/3#issuecomment-3568363902) in [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp)
+1. 🚀 Published release [Second test release](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.2) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+2. 🚀 Published release [First test version](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.1) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+3. 🗣 Commented on [#8570](https://github.com/home-assistant/brands/pull/8570#issuecomment-3587010780) in [home-assistant/brands](https://github.com/home-assistant/brands)
+4. 💪 Opened PR [#8570](undefined) in [home-assistant/brands](https://github.com/home-assistant/brands)
+5. ❗ Opened issue [#4](https://github.com/PleasePrompto/notebooklm-mcp/issues/4) in [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp)
  <!--END_SECTION:activity-->
 
 </details>
