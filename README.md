@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [try CI](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.8) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-2. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.7) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-3. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.6) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-4. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.5) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-5. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.4) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+1. 🗣 Commented on [#142473](https://github.com/home-assistant/core/issues/142473#issuecomment-3616753516) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🚀 Published release [try CI](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.8) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+3. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.7) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+4. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.6) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+5. 🚀 Published release [try ci](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.5) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
  <!--END_SECTION:activity-->
 
 </details>
