@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [0.0.11](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.11) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-2. 🚀 Published release [0.0.10](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.10) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-3. 🚀 Published release [0.0.9](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.9) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-4. ❌ Merged PR [#1](undefined) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-5. 💪 Opened PR [#1](undefined) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+1. 🚀 Published release [Update icons](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.12) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+2. 🚀 Published release [0.0.11](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.11) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+3. 🚀 Published release [0.0.10](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.10) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+4. 🚀 Published release [0.0.9](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.9) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+5. ❌ Merged PR [#1](undefined) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
  <!--END_SECTION:activity-->
 
 </details>
