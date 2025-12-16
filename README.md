@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [V1 is here !](https://github.com/thib3113/ha-boks/releases/tag/1.0.0) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-2. 🚀 Published release [0.0.1](https://github.com/thib3113/ha-boks/releases/tag/0.0.1) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-3. 🚀 Published release [Update icons](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.12) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-4. 🚀 Published release [0.0.11](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.11) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-5. 🚀 Published release [0.0.10](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.10) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+1. 🚀 Published release [Like V1, but without the zip bug](https://github.com/thib3113/ha-boks/releases/tag/1.0.1) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+2. 🚀 Published release [V1 is here !](https://github.com/thib3113/ha-boks/releases/tag/1.0.0) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+3. 🚀 Published release [0.0.1](https://github.com/thib3113/ha-boks/releases/tag/0.0.1) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+4. 🚀 Published release [Update icons](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.12) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+5. 🚀 Published release [0.0.11](https://github.com/thib3113/ha-boks-webextension/releases/tag/0.0.11) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
  <!--END_SECTION:activity-->
 
 </details>
