@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [Better Timeout handling](https://github.com/thib3113/ha-boks/releases/tag/1.0.3) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-2. 🚀 Published release [Better Config flow](https://github.com/thib3113/ha-boks/releases/tag/1.0.2) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-3. 🚀 Published release [Like V1, but without the zip bug](https://github.com/thib3113/ha-boks/releases/tag/1.0.1) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-4. 🚀 Published release [V1 is here !](https://github.com/thib3113/ha-boks/releases/tag/1.0.0) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-5. 🚀 Published release [0.0.1](https://github.com/thib3113/ha-boks/releases/tag/0.0.1) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+1. 🚀 Published release [Disable auto pin on todo if no configurationKey](https://github.com/thib3113/ha-boks/releases/tag/1.0.4) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+2. 🚀 Published release [Better Timeout handling](https://github.com/thib3113/ha-boks/releases/tag/1.0.3) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+3. 🚀 Published release [Better Config flow](https://github.com/thib3113/ha-boks/releases/tag/1.0.2) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+4. 🚀 Published release [Like V1, but without the zip bug](https://github.com/thib3113/ha-boks/releases/tag/1.0.1) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+5. 🚀 Published release [V1 is here !](https://github.com/thib3113/ha-boks/releases/tag/1.0.0) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
  <!--END_SECTION:activity-->
 
 </details>
