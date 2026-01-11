@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/thib3113/boks-web-ble/pull/1) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
-2. 💪 Opened PR [#1](https://github.com/thib3113/boks-web-ble/pull/1) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
-3. 🎉 Merged PR [#16](https://github.com/thib3113/ha-boks-webextension/pull/16) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-4. 💪 Opened PR [#16](https://github.com/thib3113/ha-boks-webextension/pull/16) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
-5. 🗣 Commented on [#74](https://github.com/nfriedly/set-cookie-parser/pull/74#issuecomment-3724110249) in [nfriedly/set-cookie-parser](https://github.com/nfriedly/set-cookie-parser)
+1. 🎉 Merged PR [#15](https://github.com/thib3113/ha-boks/pull/15) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+2. 💪 Opened PR [#15](https://github.com/thib3113/ha-boks/pull/15) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+3. 🎉 Merged PR [#1](https://github.com/thib3113/boks-web-ble/pull/1) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
+4. 💪 Opened PR [#1](https://github.com/thib3113/boks-web-ble/pull/1) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
+5. 🎉 Merged PR [#16](https://github.com/thib3113/ha-boks-webextension/pull/16) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
  <!--END_SECTION:activity-->
 
 </details>
