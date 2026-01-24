@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#15](https://github.com/thib3113/ha-boks/pull/15) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-2. 💪 Opened PR [#15](https://github.com/thib3113/ha-boks/pull/15) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-3. 🎉 Merged PR [#1](https://github.com/thib3113/boks-web-ble/pull/1) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
-4. 💪 Opened PR [#1](https://github.com/thib3113/boks-web-ble/pull/1) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
-5. 🎉 Merged PR [#16](https://github.com/thib3113/ha-boks-webextension/pull/16) in [thib3113/ha-boks-webextension](https://github.com/thib3113/ha-boks-webextension)
+1. 🗣 Commented on [#45](https://github.com/thib3113/nut/pull/45#issuecomment-3794406858) in [thib3113/nut](https://github.com/thib3113/nut)
+2. 🗣 Commented on [#58](https://github.com/thib3113/nut/pull/58#issuecomment-3794406196) in [thib3113/nut](https://github.com/thib3113/nut)
+3. 🗣 Commented on [#63](https://github.com/thib3113/nut/pull/63#issuecomment-3794405574) in [thib3113/nut](https://github.com/thib3113/nut)
+4. 🗣 Commented on [#64](https://github.com/thib3113/nut/pull/64#issuecomment-3794405203) in [thib3113/nut](https://github.com/thib3113/nut)
+5. 🗣 Commented on [#65](https://github.com/thib3113/nut/pull/65#issuecomment-3794404090) in [thib3113/nut](https://github.com/thib3113/nut)
  <!--END_SECTION:activity-->
 
 </details>
