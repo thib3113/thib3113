@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4850](https://github.com/music-assistant/support/issues/4850#issuecomment-3799800267) in [music-assistant/support](https://github.com/music-assistant/support)
-2. 🗣 Commented on [#4850](https://github.com/music-assistant/support/issues/4850#issuecomment-3798190649) in [music-assistant/support](https://github.com/music-assistant/support)
-3. ℹ️ Labeled issue [#4850](https://github.com/music-assistant/support/issues/4850) in [music-assistant/support](https://github.com/music-assistant/support)
-4. ❗ Opened issue [#4850](https://github.com/music-assistant/support/issues/4850) in [music-assistant/support](https://github.com/music-assistant/support)
-5. 🗣 Commented on [#444](https://github.com/thib3113/vban/pull/444#issuecomment-3795711783) in [thib3113/vban](https://github.com/thib3113/vban)
+1. 🗣 Commented on [#4850](https://github.com/music-assistant/support/issues/4850#issuecomment-3800229075) in [music-assistant/support](https://github.com/music-assistant/support)
+2. 🗣 Commented on [#4850](https://github.com/music-assistant/support/issues/4850#issuecomment-3800139632) in [music-assistant/support](https://github.com/music-assistant/support)
+3. 🗣 Commented on [#4850](https://github.com/music-assistant/support/issues/4850#issuecomment-3799800267) in [music-assistant/support](https://github.com/music-assistant/support)
+4. 🗣 Commented on [#4850](https://github.com/music-assistant/support/issues/4850#issuecomment-3798190649) in [music-assistant/support](https://github.com/music-assistant/support)
+5. ℹ️ Labeled issue [#4850](https://github.com/music-assistant/support/issues/4850) in [music-assistant/support](https://github.com/music-assistant/support)
  <!--END_SECTION:activity-->
 
 </details>
