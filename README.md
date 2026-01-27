@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4850](https://github.com/music-assistant/support/issues/4850#issuecomment-3803801385) in [music-assistant/support](https://github.com/music-assistant/support)
-2. 💪 Opened PR [#19](https://github.com/thib3113/ha-boks/pull/19) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-3. 💪 Opened PR [#18](https://github.com/thib3113/ha-boks/pull/18) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-4. 🎉 Merged PR [#17](https://github.com/thib3113/ha-boks/pull/17) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-5. 💪 Opened PR [#17](https://github.com/thib3113/ha-boks/pull/17) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+1. ❌ Closed PR [#19](https://github.com/thib3113/ha-boks/pull/19) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+2. ❌ Closed PR [#18](https://github.com/thib3113/ha-boks/pull/18) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+3. 🗣 Commented on [#4850](https://github.com/music-assistant/support/issues/4850#issuecomment-3803801385) in [music-assistant/support](https://github.com/music-assistant/support)
+4. 💪 Opened PR [#19](https://github.com/thib3113/ha-boks/pull/19) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+5. 💪 Opened PR [#18](https://github.com/thib3113/ha-boks/pull/18) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
  <!--END_SECTION:activity-->
 
 </details>
