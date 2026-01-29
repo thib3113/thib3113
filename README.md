@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#70](https://github.com/thib3113/nut/pull/70) in [thib3113/nut](https://github.com/thib3113/nut)
-2. 💪 Opened PR [#70](https://github.com/thib3113/nut/pull/70) in [thib3113/nut](https://github.com/thib3113/nut)
-3. ℹ️ Labeled issue [#1863](https://github.com/greghesp/ha-bambulab/issues/1863) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
-4. ❗ Opened issue [#1863](https://github.com/greghesp/ha-bambulab/issues/1863) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
-5. ❌ Closed PR [#20](https://github.com/thib3113/ha-boks/pull/20) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+1. 💪 Opened PR [#21](https://github.com/thib3113/ha-boks/pull/21) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+2. 🎉 Merged PR [#70](https://github.com/thib3113/nut/pull/70) in [thib3113/nut](https://github.com/thib3113/nut)
+3. 💪 Opened PR [#70](https://github.com/thib3113/nut/pull/70) in [thib3113/nut](https://github.com/thib3113/nut)
+4. ℹ️ Labeled issue [#1863](https://github.com/greghesp/ha-bambulab/issues/1863) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
+5. ❗ Opened issue [#1863](https://github.com/greghesp/ha-bambulab/issues/1863) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
  <!--END_SECTION:activity-->
 
 </details>
