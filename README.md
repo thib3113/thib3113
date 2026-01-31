@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/thib3113/boks-web-ble/pull/3) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
-2. 💪 Opened PR [#3](https://github.com/thib3113/boks-web-ble/pull/3) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
-3. 💪 Opened PR [#2](https://github.com/thib3113/boks-web-ble/pull/2) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
-4. 🗣 Commented on [#1863](https://github.com/greghesp/ha-bambulab/issues/1863#issuecomment-3822413016) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
-5. 💪 Opened PR [#21](https://github.com/thib3113/ha-boks/pull/21) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+1. 💪 Opened PR [#1](https://github.com/thib3113/bwb/pull/1) in [thib3113/bwb](https://github.com/thib3113/bwb)
+2. 🎉 Merged PR [#3](https://github.com/thib3113/boks-web-ble/pull/3) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
+3. 💪 Opened PR [#3](https://github.com/thib3113/boks-web-ble/pull/3) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
+4. 💪 Opened PR [#2](https://github.com/thib3113/boks-web-ble/pull/2) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
+5. 🗣 Commented on [#1863](https://github.com/greghesp/ha-bambulab/issues/1863#issuecomment-3822413016) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
  <!--END_SECTION:activity-->
 
 </details>
