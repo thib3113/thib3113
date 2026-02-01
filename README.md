@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#11](https://github.com/thib3113/bwb/pull/11) in [thib3113/bwb](https://github.com/thib3113/bwb)
-2. 🎉 Merged PR [#2](https://github.com/thib3113/web-bluetooth-dfu/pull/2) in [thib3113/web-bluetooth-dfu](https://github.com/thib3113/web-bluetooth-dfu)
-3. 🎉 Merged PR [#1](https://github.com/thib3113/web-bluetooth-dfu/pull/1) in [thib3113/web-bluetooth-dfu](https://github.com/thib3113/web-bluetooth-dfu)
-4. 💪 Opened PR [#2](https://github.com/thib3113/web-bluetooth-dfu/pull/2) in [thib3113/web-bluetooth-dfu](https://github.com/thib3113/web-bluetooth-dfu)
-5. 💪 Opened PR [#1](https://github.com/thib3113/web-bluetooth-dfu/pull/1) in [thib3113/web-bluetooth-dfu](https://github.com/thib3113/web-bluetooth-dfu)
+1. 🎉 Merged PR [#9](https://github.com/thib3113/bwb/pull/9) in [thib3113/bwb](https://github.com/thib3113/bwb)
+2. 💪 Opened PR [#11](https://github.com/thib3113/bwb/pull/11) in [thib3113/bwb](https://github.com/thib3113/bwb)
+3. 🎉 Merged PR [#2](https://github.com/thib3113/web-bluetooth-dfu/pull/2) in [thib3113/web-bluetooth-dfu](https://github.com/thib3113/web-bluetooth-dfu)
+4. 🎉 Merged PR [#1](https://github.com/thib3113/web-bluetooth-dfu/pull/1) in [thib3113/web-bluetooth-dfu](https://github.com/thib3113/web-bluetooth-dfu)
+5. 💪 Opened PR [#2](https://github.com/thib3113/web-bluetooth-dfu/pull/2) in [thib3113/web-bluetooth-dfu](https://github.com/thib3113/web-bluetooth-dfu)
  <!--END_SECTION:activity-->
 
 </details>
