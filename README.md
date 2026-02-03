@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#19](https://github.com/thib3113/bwb/pull/19) in [thib3113/bwb](https://github.com/thib3113/bwb)
-2. 🎉 Merged PR [#20](https://github.com/thib3113/bwb/pull/20) in [thib3113/bwb](https://github.com/thib3113/bwb)
-3. 💪 Opened PR [#20](https://github.com/thib3113/bwb/pull/20) in [thib3113/bwb](https://github.com/thib3113/bwb)
-4. 💪 Opened PR [#19](https://github.com/thib3113/bwb/pull/19) in [thib3113/bwb](https://github.com/thib3113/bwb)
-5. 💪 Opened PR [#18](https://github.com/thib3113/bwb/pull/18) in [thib3113/bwb](https://github.com/thib3113/bwb)
+1. 🗣 Commented on [#1863](https://github.com/greghesp/ha-bambulab/issues/1863#issuecomment-3843242208) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
+2. 🎉 Merged PR [#19](https://github.com/thib3113/bwb/pull/19) in [thib3113/bwb](https://github.com/thib3113/bwb)
+3. 🎉 Merged PR [#20](https://github.com/thib3113/bwb/pull/20) in [thib3113/bwb](https://github.com/thib3113/bwb)
+4. 💪 Opened PR [#20](https://github.com/thib3113/bwb/pull/20) in [thib3113/bwb](https://github.com/thib3113/bwb)
+5. 💪 Opened PR [#19](https://github.com/thib3113/bwb/pull/19) in [thib3113/bwb](https://github.com/thib3113/bwb)
  <!--END_SECTION:activity-->
 
 </details>
