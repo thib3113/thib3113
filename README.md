@@ -28,8 +28,8 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2](https://github.com/thib3113/boks-web-ble/pull/2) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
-2. 💪 Opened PR [#29](https://github.com/thib3113/bwb/pull/29) in [thib3113/bwb](https://github.com/thib3113/bwb)
+1. ❌ Closed PR [#60](https://github.com/thib3113/bwb/pull/60) in [thib3113/bwb](https://github.com/thib3113/bwb)
+2. ❌ Closed PR [#2](https://github.com/thib3113/boks-web-ble/pull/2) in [thib3113/boks-web-ble](https://github.com/thib3113/boks-web-ble)
 3. 🗣 Commented on [#23](https://github.com/thib3113/bwb/pull/23#issuecomment-3847121307) in [thib3113/bwb](https://github.com/thib3113/bwb)
 4. ❌ Closed PR [#18](https://github.com/thib3113/bwb/pull/18) in [thib3113/bwb](https://github.com/thib3113/bwb)
 5. 🗣 Commented on [#1863](https://github.com/greghesp/ha-bambulab/issues/1863#issuecomment-3843242208) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
