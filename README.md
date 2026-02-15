@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#65](https://github.com/thib3113/bwb/pull/65) in [thib3113/bwb](https://github.com/thib3113/bwb)
-2. ❌ Closed PR [#26](https://github.com/thib3113/ha-boks/pull/26) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-3. ❌ Closed PR [#28](https://github.com/thib3113/ha-boks/pull/28) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-4. ❌ Closed PR [#25](https://github.com/thib3113/ha-boks/pull/25) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-5. ❌ Closed PR [#27](https://github.com/thib3113/ha-boks/pull/27) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+1. ❌ Closed PR [#31](https://github.com/thib3113/ha-boks/pull/31) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+2. ❌ Closed PR [#29](https://github.com/thib3113/ha-boks/pull/29) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+3. ❌ Closed PR [#30](https://github.com/thib3113/ha-boks/pull/30) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+4. ❌ Closed PR [#65](https://github.com/thib3113/bwb/pull/65) in [thib3113/bwb](https://github.com/thib3113/bwb)
+5. ❌ Closed PR [#26](https://github.com/thib3113/ha-boks/pull/26) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
  <!--END_SECTION:activity-->
 
 </details>
