@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#54](https://github.com/thib3113/boks-sdk-js/pull/54) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
-2. ❌ Closed PR [#46](https://github.com/thib3113/boks-sdk-js/pull/46) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
-3. 🎉 Merged PR [#49](https://github.com/thib3113/boks-sdk-js/pull/49) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
-4. 🎉 Merged PR [#47](https://github.com/thib3113/boks-sdk-js/pull/47) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
-5. 🎉 Merged PR [#48](https://github.com/thib3113/boks-sdk-js/pull/48) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+1. ❌ Closed PR [#55](https://github.com/thib3113/boks-sdk-js/pull/55) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+2. 🎉 Merged PR [#54](https://github.com/thib3113/boks-sdk-js/pull/54) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+3. ❌ Closed PR [#46](https://github.com/thib3113/boks-sdk-js/pull/46) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+4. 🎉 Merged PR [#49](https://github.com/thib3113/boks-sdk-js/pull/49) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+5. 🎉 Merged PR [#47](https://github.com/thib3113/boks-sdk-js/pull/47) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
  <!--END_SECTION:activity-->
 
 </details>
