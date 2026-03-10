@@ -28,7 +28,7 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#116](https://github.com/thib3113/boks-sdk-js/pull/116) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+1. ❌ Closed PR [#162](https://github.com/thib3113/boks-sdk-js/pull/162) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
 2. ❌ Closed PR [#122](https://github.com/thib3113/boks-sdk-js/pull/122) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
 3. ❌ Closed PR [#39](https://github.com/thib3113/ha-boks/pull/39) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
 4. ❌ Closed PR [#75](https://github.com/thib3113/boks-sdk-js/pull/75) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
