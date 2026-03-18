@@ -28,10 +28,10 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#191](https://github.com/thib3113/boks-sdk-js/pull/191) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
-2. ❌ Closed PR [#197](https://github.com/thib3113/boks-sdk-js/pull/197) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
-3. ❌ Closed PR [#173](https://github.com/thib3113/boks-sdk-js/pull/173) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
-4. ❌ Closed PR [#159](https://github.com/thib3113/boks-sdk-js/pull/159) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+1. ❌ Closed PR [#205](https://github.com/thib3113/boks-sdk-js/pull/205) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+2. ❌ Closed PR [#201](https://github.com/thib3113/boks-sdk-js/pull/201) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+3. ❌ Closed PR [#191](https://github.com/thib3113/boks-sdk-js/pull/191) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+4. ❌ Closed PR [#197](https://github.com/thib3113/boks-sdk-js/pull/197) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
 5. ❌ Closed PR [#162](https://github.com/thib3113/boks-sdk-js/pull/162) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
  <!--END_SECTION:activity-->
 
