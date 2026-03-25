@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#262](https://github.com/seaky/nspanel_pro_tools_apk/issues/262#issuecomment-4129061304) in [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk)
-2. 🗣 Commented on [#262](https://github.com/seaky/nspanel_pro_tools_apk/issues/262#issuecomment-4128811248) in [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk)
-3. 🗣 Commented on [#262](https://github.com/seaky/nspanel_pro_tools_apk/issues/262#issuecomment-4126078182) in [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk)
-4. 🗣 Commented on [#1230](https://github.com/Zendure/Zendure-HA/issues/1230#issuecomment-4125949721) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-5. ❗ Opened issue [#1230](https://github.com/Zendure/Zendure-HA/issues/1230) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+1. ❌ Closed PR [#267](https://github.com/thib3113/boks-sdk-js/pull/267) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+2. ❌ Closed PR [#262](https://github.com/thib3113/boks-sdk-js/pull/262) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+3. ❌ Closed PR [#263](https://github.com/thib3113/boks-sdk-js/pull/263) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+4. ❌ Closed PR [#265](https://github.com/thib3113/boks-sdk-js/pull/265) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+5. 🗣 Commented on [#262](https://github.com/seaky/nspanel_pro_tools_apk/issues/262#issuecomment-4129061304) in [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk)
  <!--END_SECTION:activity-->
 
 </details>
