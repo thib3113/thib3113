@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1230](https://github.com/Zendure/Zendure-HA/issues/1230) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-2. 🗣 Commented on [#1225](https://github.com/Zendure/Zendure-HA/issues/1225#issuecomment-4125098079) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-3. 🗣 Commented on [#262](https://github.com/seaky/nspanel_pro_tools_apk/issues/262#issuecomment-4122041084) in [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk)
-4. 🎉 Merged PR [#260](https://github.com/thib3113/boks-sdk-js/pull/260) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
-5. 🗣 Commented on [#262](https://github.com/seaky/nspanel_pro_tools_apk/issues/262#issuecomment-4115940892) in [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk)
+1. 🗣 Commented on [#262](https://github.com/seaky/nspanel_pro_tools_apk/issues/262#issuecomment-4126078182) in [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk)
+2. 🗣 Commented on [#1230](https://github.com/Zendure/Zendure-HA/issues/1230#issuecomment-4125949721) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+3. ❗ Opened issue [#1230](https://github.com/Zendure/Zendure-HA/issues/1230) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+4. 🗣 Commented on [#1225](https://github.com/Zendure/Zendure-HA/issues/1225#issuecomment-4125098079) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+5. 🗣 Commented on [#262](https://github.com/seaky/nspanel_pro_tools_apk/issues/262#issuecomment-4122041084) in [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk)
  <!--END_SECTION:activity-->
 
 </details>
