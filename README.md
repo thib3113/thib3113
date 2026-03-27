@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#268](https://github.com/thib3113/boks-sdk-js/pull/268) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
-2. 🗣 Commented on [#1230](https://github.com/Zendure/Zendure-HA/issues/1230#issuecomment-4130598887) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-3. ❌ Closed PR [#267](https://github.com/thib3113/boks-sdk-js/pull/267) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
-4. ❌ Closed PR [#262](https://github.com/thib3113/boks-sdk-js/pull/262) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
-5. ❌ Closed PR [#263](https://github.com/thib3113/boks-sdk-js/pull/263) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+1. ❌ Closed PR [#275](https://github.com/thib3113/boks-sdk-js/pull/275) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+2. ❌ Closed PR [#268](https://github.com/thib3113/boks-sdk-js/pull/268) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+3. 🗣 Commented on [#1230](https://github.com/Zendure/Zendure-HA/issues/1230#issuecomment-4130598887) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+4. ❌ Closed PR [#267](https://github.com/thib3113/boks-sdk-js/pull/267) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
+5. ❌ Closed PR [#262](https://github.com/thib3113/boks-sdk-js/pull/262) in [thib3113/boks-sdk-js](https://github.com/thib3113/boks-sdk-js)
  <!--END_SECTION:activity-->
 
 </details>
