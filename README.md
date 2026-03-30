@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1239](https://github.com/Zendure/Zendure-HA/issues/1239#issuecomment-4157079970) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-2. 🗣 Commented on [#44](https://github.com/thib3113/ha-boks/issues/44#issuecomment-4156205040) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
-3. ℹ️ Labeled issue [#1239](https://github.com/Zendure/Zendure-HA/issues/1239) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-4. ❗ Opened issue [#1239](https://github.com/Zendure/Zendure-HA/issues/1239) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-5. 🎉 Merged PR [#1228](https://github.com/Zendure/Zendure-HA/pull/1228) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+1. 🗣 Commented on [#1241](https://github.com/Zendure/Zendure-HA/issues/1241#issuecomment-4157770244) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+2. 🗣 Commented on [#1239](https://github.com/Zendure/Zendure-HA/issues/1239#issuecomment-4157079970) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+3. 🗣 Commented on [#44](https://github.com/thib3113/ha-boks/issues/44#issuecomment-4156205040) in [thib3113/ha-boks](https://github.com/thib3113/ha-boks)
+4. ℹ️ Labeled issue [#1239](https://github.com/Zendure/Zendure-HA/issues/1239) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+5. ❗ Opened issue [#1239](https://github.com/Zendure/Zendure-HA/issues/1239) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
  <!--END_SECTION:activity-->
 
 </details>
