@@ -28,7 +28,7 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1230](https://github.com/Zendure/Zendure-HA/issues/1230#issuecomment-4231602123) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+1. 🗣 Commented on [#1230](https://github.com/Zendure/Zendure-HA/issues/1230#issuecomment-4231769405) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
 2. 🗣 Commented on [#1230](https://github.com/Zendure/Zendure-HA/issues/1230#issuecomment-4225093870) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
 3. 🗣 Commented on [#1225](https://github.com/Zendure/Zendure-HA/issues/1225#issuecomment-4221583122) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
 4. 🗣 Commented on [#1205](https://github.com/Zendure/Zendure-HA/issues/1205#issuecomment-4173092966) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
