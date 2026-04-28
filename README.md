@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1297](https://github.com/Zendure/Zendure-HA/pull/1297#issuecomment-4333949090) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-2. 🗣 Commented on [#1297](https://github.com/Zendure/Zendure-HA/pull/1297#issuecomment-4333788337) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-3. 🗣 Commented on [#1239](https://github.com/Zendure/Zendure-HA/issues/1239#issuecomment-4333732297) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-4. 🗣 Commented on [#1230](https://github.com/Zendure/Zendure-HA/issues/1230#issuecomment-4287753583) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-5. 🗣 Commented on [#1230](https://github.com/Zendure/Zendure-HA/issues/1230#issuecomment-4250157325) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+1. 🗣 Commented on [#1297](https://github.com/Zendure/Zendure-HA/pull/1297#issuecomment-4336002727) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+2. 🗣 Commented on [#1297](https://github.com/Zendure/Zendure-HA/pull/1297#issuecomment-4335699306) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+3. 🗣 Commented on [#1297](https://github.com/Zendure/Zendure-HA/pull/1297#issuecomment-4333949090) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+4. 🗣 Commented on [#1297](https://github.com/Zendure/Zendure-HA/pull/1297#issuecomment-4333788337) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+5. 🗣 Commented on [#1239](https://github.com/Zendure/Zendure-HA/issues/1239#issuecomment-4333732297) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
  <!--END_SECTION:activity-->
 
 </details>
