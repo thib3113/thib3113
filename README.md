@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#80](https://github.com/thib3113/nut/pull/80#issuecomment-4585923466) in [thib3113/nut](https://github.com/thib3113/nut)
-2. 🚀 Published release [v1.7.0](https://github.com/thib3113/unifi-blockips-srv/releases/tag/v1.7.0) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-3. ❌ Closed PR [#393](https://github.com/thib3113/unifi-blockips-srv/pull/393) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-4. ❌ Closed PR [#394](https://github.com/thib3113/unifi-blockips-srv/pull/394) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
-5. ❌ Closed PR [#395](https://github.com/thib3113/unifi-blockips-srv/pull/395) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+1. ❌ Closed PR [#86](https://github.com/thib3113/nut/pull/86) in [thib3113/nut](https://github.com/thib3113/nut)
+2. 🗣 Commented on [#80](https://github.com/thib3113/nut/pull/80#issuecomment-4585923466) in [thib3113/nut](https://github.com/thib3113/nut)
+3. 🚀 Published release [v1.7.0](https://github.com/thib3113/unifi-blockips-srv/releases/tag/v1.7.0) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+4. ❌ Closed PR [#393](https://github.com/thib3113/unifi-blockips-srv/pull/393) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+5. ❌ Closed PR [#394](https://github.com/thib3113/unifi-blockips-srv/pull/394) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
  <!--END_SECTION:activity-->
 
 </details>
