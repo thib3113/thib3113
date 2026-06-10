@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1230](https://github.com/Zendure/Zendure-HA/issues/1230#issuecomment-4661452772) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-2. 🗣 Commented on [#1230](https://github.com/Zendure/Zendure-HA/issues/1230#issuecomment-4659278806) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-3. ❌ Closed PR [#86](https://github.com/thib3113/nut/pull/86) in [thib3113/nut](https://github.com/thib3113/nut)
-4. 🗣 Commented on [#80](https://github.com/thib3113/nut/pull/80#issuecomment-4585923466) in [thib3113/nut](https://github.com/thib3113/nut)
-5. 🚀 Published release [v1.7.0](https://github.com/thib3113/unifi-blockips-srv/releases/tag/v1.7.0) in [thib3113/unifi-blockips-srv](https://github.com/thib3113/unifi-blockips-srv)
+1. 🗣 Commented on [#1414](https://github.com/Zendure/Zendure-HA/issues/1414#issuecomment-4671458681) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+2. 🗣 Commented on [#1230](https://github.com/Zendure/Zendure-HA/issues/1230#issuecomment-4661452772) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+3. 🗣 Commented on [#1230](https://github.com/Zendure/Zendure-HA/issues/1230#issuecomment-4659278806) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+4. ❌ Closed PR [#86](https://github.com/thib3113/nut/pull/86) in [thib3113/nut](https://github.com/thib3113/nut)
+5. 🗣 Commented on [#80](https://github.com/thib3113/nut/pull/80#issuecomment-4585923466) in [thib3113/nut](https://github.com/thib3113/nut)
  <!--END_SECTION:activity-->
 
 </details>
