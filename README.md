@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#179](https://github.com/naiba/bonds/issues/179) in [naiba/bonds](https://github.com/naiba/bonds)
-2. ℹ️ Labeled issue [#28360](https://github.com/argoproj/argo-cd/issues/28360) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-3. 🗣 Commented on [#1423](https://github.com/Zendure/Zendure-HA/pull/1423#issuecomment-4698729566) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-4. 🗣 Commented on [#1423](https://github.com/Zendure/Zendure-HA/pull/1423#issuecomment-4694802176) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-5. 🗣 Commented on [#1414](https://github.com/Zendure/Zendure-HA/issues/1414#issuecomment-4689682905) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+1. 🗣 Commented on [#1423](https://github.com/Zendure/Zendure-HA/pull/1423#issuecomment-4841813810) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+2. ℹ️ Labeled issue [#179](https://github.com/naiba/bonds/issues/179) in [naiba/bonds](https://github.com/naiba/bonds)
+3. ℹ️ Labeled issue [#28360](https://github.com/argoproj/argo-cd/issues/28360) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+4. 🗣 Commented on [#1423](https://github.com/Zendure/Zendure-HA/pull/1423#issuecomment-4698729566) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
+5. 🗣 Commented on [#1423](https://github.com/Zendure/Zendure-HA/pull/1423#issuecomment-4694802176) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
  <!--END_SECTION:activity-->
 
 </details>
