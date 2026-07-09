@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#202](https://github.com/naiba/bonds/issues/202) in [naiba/bonds](https://github.com/naiba/bonds)
-2. ❗ Opened issue [#202](https://github.com/naiba/bonds/issues/202) in [naiba/bonds](https://github.com/naiba/bonds)
-3. 🗣 Commented on [#1423](https://github.com/Zendure/Zendure-HA/pull/1423#issuecomment-4841813810) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
-4. ℹ️ Labeled issue [#179](https://github.com/naiba/bonds/issues/179) in [naiba/bonds](https://github.com/naiba/bonds)
-5. ℹ️ Labeled issue [#28360](https://github.com/argoproj/argo-cd/issues/28360) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+1. ℹ️ Labeled issue [#203](https://github.com/naiba/bonds/issues/203) in [naiba/bonds](https://github.com/naiba/bonds)
+2. ❗ Opened issue [#203](https://github.com/naiba/bonds/issues/203) in [naiba/bonds](https://github.com/naiba/bonds)
+3. ℹ️ Labeled issue [#202](https://github.com/naiba/bonds/issues/202) in [naiba/bonds](https://github.com/naiba/bonds)
+4. ❗ Opened issue [#202](https://github.com/naiba/bonds/issues/202) in [naiba/bonds](https://github.com/naiba/bonds)
+5. 🗣 Commented on [#1423](https://github.com/Zendure/Zendure-HA/pull/1423#issuecomment-4841813810) in [Zendure/Zendure-HA](https://github.com/Zendure/Zendure-HA)
  <!--END_SECTION:activity-->
 
 </details>
