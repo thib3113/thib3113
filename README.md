@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#54](https://github.com/spailybot/moleculer-auto-openapi/pull/54#issuecomment-5309276834) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-2. 🗣 Commented on [#53](https://github.com/spailybot/moleculer-auto-openapi/pull/53#issuecomment-5309276703) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3. 🗣 Commented on [#52](https://github.com/spailybot/moleculer-auto-openapi/pull/52#issuecomment-5309276592) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-4. 🗣 Commented on [#49](https://github.com/spailybot/moleculer-auto-openapi/pull/49#issuecomment-5309276480) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 🗣 Commented on [#46](https://github.com/spailybot/moleculer-auto-openapi/pull/46#issuecomment-5309276348) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. 🚀 Published release [crowdsec-client/v1.1.0](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client/v1.1.0) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🔒 Closed issue [#88](https://github.com/thib3113/node-crowdsec/issues/88) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🗣 Commented on [#54](https://github.com/spailybot/moleculer-auto-openapi/pull/54#issuecomment-5309276834) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4. 🗣 Commented on [#53](https://github.com/spailybot/moleculer-auto-openapi/pull/53#issuecomment-5309276703) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. 🗣 Commented on [#52](https://github.com/spailybot/moleculer-auto-openapi/pull/52#issuecomment-5309276592) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
