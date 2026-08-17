@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [crowdsec-http-middleware/v0.1.1](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.1.1) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 🚀 Published release [crowdsec-http-middleware/v0.1.0](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.1.0) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. ❌ Closed PR [#96](https://github.com/thib3113/node-crowdsec/pull/96) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🗣 Commented on [#96](https://github.com/thib3113/node-crowdsec/pull/96#issuecomment-5313612337) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🚀 Published release [v1.3.9](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.3.9) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. 🚀 Published release [v1.4.0](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.4.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. 🚀 Published release [crowdsec-http-middleware/v0.1.1](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.1.1) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🚀 Published release [crowdsec-http-middleware/v0.1.0](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.1.0) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. ❌ Closed PR [#96](https://github.com/thib3113/node-crowdsec/pull/96) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🗣 Commented on [#96](https://github.com/thib3113/node-crowdsec/pull/96#issuecomment-5313612337) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
