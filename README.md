@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#29](https://github.com/spailybot/moleculer-auto-openapi/issues/29#issuecomment-5316986905) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-2. 🗣 Commented on [#50](https://github.com/spailybot/moleculer-auto-openapi/issues/50#issuecomment-5315786817) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3. 🚀 Published release [v1.4.0](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.4.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-4. 🚀 Published release [crowdsec-http-middleware/v0.1.1](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.1.1) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🚀 Published release [crowdsec-http-middleware/v0.1.0](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.1.0) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. 🚀 Published release [v1.4.1](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.4.1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. 🗣 Commented on [#29](https://github.com/spailybot/moleculer-auto-openapi/issues/29#issuecomment-5316986905) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+3. 🗣 Commented on [#50](https://github.com/spailybot/moleculer-auto-openapi/issues/50#issuecomment-5315786817) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4. 🚀 Published release [v1.4.0](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.4.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. 🚀 Published release [crowdsec-http-middleware/v0.1.1](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-http-middleware/v0.1.1) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
