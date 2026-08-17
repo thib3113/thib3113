@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#60](https://github.com/spailybot/moleculer-auto-openapi/issues/60) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-2. 🚀 Published release [v1.4.1](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.4.1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3. 🗣 Commented on [#29](https://github.com/spailybot/moleculer-auto-openapi/issues/29#issuecomment-5316986905) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-4. 🗣 Commented on [#50](https://github.com/spailybot/moleculer-auto-openapi/issues/50#issuecomment-5315786817) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 🚀 Published release [v1.4.0](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.4.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. ❗ Opened issue [#64](https://github.com/spailybot/moleculer-auto-openapi/issues/64) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. 🔒 Closed issue [#60](https://github.com/spailybot/moleculer-auto-openapi/issues/60) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+3. 🚀 Published release [v1.4.1](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.4.1) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+4. 🗣 Commented on [#29](https://github.com/spailybot/moleculer-auto-openapi/issues/29#issuecomment-5316986905) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+5. 🗣 Commented on [#50](https://github.com/spailybot/moleculer-auto-openapi/issues/50#issuecomment-5315786817) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
  <!--END_SECTION:activity-->
 
 </details>
