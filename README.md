@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#74](https://github.com/spailybot/moleculer-auto-openapi/pull/74) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-2. 🔒 Closed issue [#64](https://github.com/spailybot/moleculer-auto-openapi/issues/64) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-3. 💪 Opened PR [#74](https://github.com/spailybot/moleculer-auto-openapi/pull/74) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-4. 🚀 Published release [v2.0.0](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v2.0.0) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-5. 🚀 Published release [v1.4.3](https://github.com/spailybot/moleculer-auto-openapi/releases/tag/v1.4.3) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. 🗣 Commented on [#101](https://github.com/thib3113/nut/pull/101#issuecomment-5354917531) in [thib3113/nut](https://github.com/thib3113/nut)
+2. 🗣 Commented on [#104](https://github.com/thib3113/nut/pull/104#issuecomment-5354917323) in [thib3113/nut](https://github.com/thib3113/nut)
+3. 🗣 Commented on [#105](https://github.com/thib3113/nut/pull/105#issuecomment-5354917114) in [thib3113/nut](https://github.com/thib3113/nut)
+4. 🗣 Commented on [#106](https://github.com/thib3113/nut/pull/106#issuecomment-5354916894) in [thib3113/nut](https://github.com/thib3113/nut)
+5. 🗣 Commented on [#107](https://github.com/thib3113/nut/pull/107#issuecomment-5354916682) in [thib3113/nut](https://github.com/thib3113/nut)
  <!--END_SECTION:activity-->
 
 </details>
