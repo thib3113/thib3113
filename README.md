@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#367](https://github.com/icebob/fastest-validator/pull/367) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
-2. 🗣 Commented on [#101](https://github.com/thib3113/nut/pull/101#issuecomment-5354917531) in [thib3113/nut](https://github.com/thib3113/nut)
-3. 🗣 Commented on [#104](https://github.com/thib3113/nut/pull/104#issuecomment-5354917323) in [thib3113/nut](https://github.com/thib3113/nut)
-4. 🗣 Commented on [#105](https://github.com/thib3113/nut/pull/105#issuecomment-5354917114) in [thib3113/nut](https://github.com/thib3113/nut)
-5. 🗣 Commented on [#106](https://github.com/thib3113/nut/pull/106#issuecomment-5354916894) in [thib3113/nut](https://github.com/thib3113/nut)
+1. 🚀 Published release [v1.0.0](https://github.com/thib3113/nut/releases/tag/v1.0.0) in [thib3113/nut](https://github.com/thib3113/nut)
+2. 💪 Opened PR [#367](https://github.com/icebob/fastest-validator/pull/367) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
+3. 🗣 Commented on [#101](https://github.com/thib3113/nut/pull/101#issuecomment-5354917531) in [thib3113/nut](https://github.com/thib3113/nut)
+4. 🗣 Commented on [#104](https://github.com/thib3113/nut/pull/104#issuecomment-5354917323) in [thib3113/nut](https://github.com/thib3113/nut)
+5. 🗣 Commented on [#105](https://github.com/thib3113/nut/pull/105#issuecomment-5354917114) in [thib3113/nut](https://github.com/thib3113/nut)
  <!--END_SECTION:activity-->
 
 </details>
