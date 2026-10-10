@@ -28,8 +28,8 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#69](https://github.com/spailybot/moleculer-auto-openapi/pull/69) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
-2. 🔒 Closed issue [#50](https://github.com/spailybot/moleculer-auto-openapi/issues/50) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+1. ❗ Opened issue [#6](https://github.com/wakatime/antigravity-wakatime/issues/6) in [wakatime/antigravity-wakatime](https://github.com/wakatime/antigravity-wakatime)
+2. ❌ Closed PR [#69](https://github.com/spailybot/moleculer-auto-openapi/pull/69) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
 3. 🔒 Closed issue [#29](https://github.com/spailybot/moleculer-auto-openapi/issues/29) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
 4. 💪 Opened PR [#367](https://github.com/icebob/fastest-validator/pull/367) in [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
 5. 🗣 Commented on [#101](https://github.com/thib3113/nut/pull/101#issuecomment-5354917531) in [thib3113/nut](https://github.com/thib3113/nut)
