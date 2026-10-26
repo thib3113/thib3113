@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#105](https://github.com/thib3113/node-crowdsec/pull/105) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 🎉 Merged PR [#110](https://github.com/thib3113/node-crowdsec/pull/110) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 💪 Opened PR [#110](https://github.com/thib3113/node-crowdsec/pull/110) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🎉 Merged PR [#108](https://github.com/thib3113/node-crowdsec/pull/108) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 💪 Opened PR [#108](https://github.com/thib3113/node-crowdsec/pull/108) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. 🚀 Published release [crowdsec-client/v1.3.0](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client/v1.3.0) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. ❌ Closed PR [#105](https://github.com/thib3113/node-crowdsec/pull/105) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🎉 Merged PR [#110](https://github.com/thib3113/node-crowdsec/pull/110) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 💪 Opened PR [#110](https://github.com/thib3113/node-crowdsec/pull/110) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🎉 Merged PR [#108](https://github.com/thib3113/node-crowdsec/pull/108) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
