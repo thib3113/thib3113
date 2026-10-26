@@ -30,9 +30,9 @@ I'm a backend developper
 
 1. ❗ Opened issue [#1660](https://github.com/wakatime/wakatime-cli/issues/1660) in [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)
 2. 🚀 Published release [crowdsec-client/v1.3.0](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client/v1.3.0) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. ❌ Closed PR [#105](https://github.com/thib3113/node-crowdsec/pull/105) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🎉 Merged PR [#110](https://github.com/thib3113/node-crowdsec/pull/110) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 💪 Opened PR [#110](https://github.com/thib3113/node-crowdsec/pull/110) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. ❗ Opened issue [#18](https://github.com/MacroPower/wakatime_exporter/issues/18) in [MacroPower/wakatime_exporter](https://github.com/MacroPower/wakatime_exporter)
+4. 🗣 Commented on [#6](https://github.com/wakatime/antigravity-wakatime/issues/6#issuecomment-6111071642) in [wakatime/antigravity-wakatime](https://github.com/wakatime/antigravity-wakatime)
+5. ❗ Opened issue [#6](https://github.com/wakatime/antigravity-wakatime/issues/6) in [wakatime/antigravity-wakatime](https://github.com/wakatime/antigravity-wakatime)
  <!--END_SECTION:activity-->
 
 </details>
