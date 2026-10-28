@@ -29,10 +29,10 @@ I'm a backend developper
 <!--START_SECTION:activity-->
 
 1. 🚀 Published release [v0.4.0](https://github.com/thib3113/wakatime_exporter/releases/tag/v0.4.0) in [thib3113/wakatime_exporter](https://github.com/thib3113/wakatime_exporter)
-2. ❗ Opened issue [#1660](https://github.com/wakatime/wakatime-cli/issues/1660) in [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)
-3. 🚀 Published release [crowdsec-client/v1.3.0](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client/v1.3.0) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. ❗ Opened issue [#18](https://github.com/MacroPower/wakatime_exporter/issues/18) in [MacroPower/wakatime_exporter](https://github.com/MacroPower/wakatime_exporter)
-5. 🗣 Commented on [#6](https://github.com/wakatime/antigravity-wakatime/issues/6#issuecomment-6111071642) in [wakatime/antigravity-wakatime](https://github.com/wakatime/antigravity-wakatime)
+2. 💪 Opened PR [#111](https://github.com/thib3113/node-crowdsec/pull/111) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. ❗ Opened issue [#1660](https://github.com/wakatime/wakatime-cli/issues/1660) in [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)
+4. 🚀 Published release [crowdsec-client/v1.3.0](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-client/v1.3.0) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. ❌ Closed PR [#105](https://github.com/thib3113/node-crowdsec/pull/105) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
