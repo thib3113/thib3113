@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [crowdsec-mcp/v0.0.2](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-mcp/v0.0.2) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 🎉 Merged PR [#111](https://github.com/thib3113/node-crowdsec/pull/111) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🚀 Published release [v0.4.0](https://github.com/thib3113/wakatime_exporter/releases/tag/v0.4.0) in [thib3113/wakatime_exporter](https://github.com/thib3113/wakatime_exporter)
-4. 💪 Opened PR [#111](https://github.com/thib3113/node-crowdsec/pull/111) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. ❗ Opened issue [#1660](https://github.com/wakatime/wakatime-cli/issues/1660) in [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)
+1. 🚀 Published release [crowdsec-mcp/v0.0.5](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-mcp/v0.0.5) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+2. 🚀 Published release [crowdsec-mcp/v0.0.4](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-mcp/v0.0.4) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🚀 Published release [crowdsec-mcp/v0.0.2](https://github.com/thib3113/node-crowdsec/releases/tag/crowdsec-mcp/v0.0.2) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 🎉 Merged PR [#111](https://github.com/thib3113/node-crowdsec/pull/111) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🚀 Published release [v0.4.0](https://github.com/thib3113/wakatime_exporter/releases/tag/v0.4.0) in [thib3113/wakatime_exporter](https://github.com/thib3113/wakatime_exporter)
  <!--END_SECTION:activity-->
 
 </details>
