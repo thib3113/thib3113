@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#123](https://github.com/thib3113/node-crowdsec/pull/123) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-2. 🎉 Merged PR [#122](https://github.com/thib3113/node-crowdsec/pull/122) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 💪 Opened PR [#122](https://github.com/thib3113/node-crowdsec/pull/122) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 🎉 Merged PR [#121](https://github.com/thib3113/node-crowdsec/pull/121) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 💪 Opened PR [#121](https://github.com/thib3113/node-crowdsec/pull/121) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. 🚀 Published release [v0.5.0](https://github.com/thib3113/wakatime_exporter/releases/tag/v0.5.0) in [thib3113/wakatime_exporter](https://github.com/thib3113/wakatime_exporter)
+2. 💪 Opened PR [#123](https://github.com/thib3113/node-crowdsec/pull/123) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+3. 🎉 Merged PR [#122](https://github.com/thib3113/node-crowdsec/pull/122) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+4. 💪 Opened PR [#122](https://github.com/thib3113/node-crowdsec/pull/122) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🎉 Merged PR [#121](https://github.com/thib3113/node-crowdsec/pull/121) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
