@@ -28,11 +28,11 @@ I'm a backend developper
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.5.0](https://github.com/thib3113/wakatime_exporter/releases/tag/v0.5.0) in [thib3113/wakatime_exporter](https://github.com/thib3113/wakatime_exporter)
-2. 💪 Opened PR [#123](https://github.com/thib3113/node-crowdsec/pull/123) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-3. 🎉 Merged PR [#122](https://github.com/thib3113/node-crowdsec/pull/122) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-4. 💪 Opened PR [#122](https://github.com/thib3113/node-crowdsec/pull/122) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
-5. 🎉 Merged PR [#121](https://github.com/thib3113/node-crowdsec/pull/121) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+1. 🎉 Merged PR [#148](https://github.com/spailybot/moleculer-auto-openapi/pull/148) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+2. 💪 Opened PR [#148](https://github.com/spailybot/moleculer-auto-openapi/pull/148) in [spailybot/moleculer-auto-openapi](https://github.com/spailybot/moleculer-auto-openapi)
+3. 🚀 Published release [v0.5.0](https://github.com/thib3113/wakatime_exporter/releases/tag/v0.5.0) in [thib3113/wakatime_exporter](https://github.com/thib3113/wakatime_exporter)
+4. 💪 Opened PR [#123](https://github.com/thib3113/node-crowdsec/pull/123) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
+5. 🎉 Merged PR [#122](https://github.com/thib3113/node-crowdsec/pull/122) in [thib3113/node-crowdsec](https://github.com/thib3113/node-crowdsec)
  <!--END_SECTION:activity-->
 
 </details>
